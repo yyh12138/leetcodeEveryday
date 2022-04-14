@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7998fa7-d89f-433c-b08f-69932f9195de" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/test/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/小目标100/31-40/$39组合总和.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/超大目标5000/1501-2000/$1672最富有客户资产.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/$39组合总和.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/$39组合总和.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/小目标100/31-40/$39组合总和.java" beforeDir="false" afterPath="$PROJECT_DIR$/小目标100/31-40/$39组合总和.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,6 +97,7 @@
       <updated>1649900163203</updated>
       <workItem from="1649900166120" duration="3210000" />
       <workItem from="1649923397998" duration="5911000" />
+      <workItem from="1649929714846" duration="2558000" />
     </task>
     <servers />
   </component>
@@ -115,16 +115,5 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/小目标100/31-40/$39组合总和.java</url>
-          <line>19</line>
-          <option name="timeStamp" value="24" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
