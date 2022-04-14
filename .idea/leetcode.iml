@@ -3,7 +3,18 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/小目标100/1-10" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/小目标100/11-20" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/小目标100/21-30" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/小目标100/31-40" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/小目标100/41-50" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/小目标100/51-60" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/小目标100/61-70" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/小目标100/71-80" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/小目标100/81-90" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/小目标100/91-100" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/超大目标5000/1501-2000" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
