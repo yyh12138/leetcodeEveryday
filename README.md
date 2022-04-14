@@ -1,2 +1,1 @@
-# leetcodeEveryday
-123
+# leetcode
