@@ -15,6 +15,10 @@
       <sourceFolder url="file://$MODULE_DIR$/小目标100/81-90" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/小目标100/91-100" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/超大目标5000/1501-2000" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/中目标500/101-200" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/中目标500/201-300" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/中目标500/301-400" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/中目标500/401-500" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

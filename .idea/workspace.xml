@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7998fa7-d89f-433c-b08f-69932f9195de" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/$39组合总和.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/$39组合总和.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/小目标100/31-40/$39组合总和.java" beforeDir="false" afterPath="$PROJECT_DIR$/小目标100/31-40/$39组合总和.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/中目标500/301-400/$385语法分析器.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/小目标100/11-20/$15三数之和.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,9 +46,16 @@
     <property name="project.structure.side.proportion" value="0.27087575" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
   </component>
-  <component name="RunManager" selected="Application.$39组合总和">
+  <component name="RunManager" selected="Application.$385语法分析器">
     <configuration name="$1672最富有客户资产" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="$1672最富有客户资产" />
+      <module name="leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="$385语法分析器" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="$385语法分析器" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -75,8 +82,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.$385语法分析器" />
         <item itemvalue="Application.$39组合总和" />
         <item itemvalue="Application.test" />
         <item itemvalue="Application.$1672最富有客户资产" />
@@ -97,7 +116,8 @@
       <updated>1649900163203</updated>
       <workItem from="1649900166120" duration="3210000" />
       <workItem from="1649923397998" duration="5911000" />
-      <workItem from="1649929714846" duration="2558000" />
+      <workItem from="1649929714846" duration="3443000" />
+      <workItem from="1649987485670" duration="3553000" />
     </task>
     <servers />
   </component>
