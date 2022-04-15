@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7998fa7-d89f-433c-b08f-69932f9195de" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/中目标500/301-400/$385语法分析器.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/小目标100/11-20/$15三数之和.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/$385语法分析器.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/$385语法分析器.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/NestedInteger.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/NestedInteger.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/小目标100/11-20/$15三数之和.java" beforeDir="false" afterPath="$PROJECT_DIR$/小目标100/11-20/$15三数之和.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +47,14 @@
     <property name="project.structure.side.proportion" value="0.27087575" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
   </component>
-  <component name="RunManager" selected="Application.$385语法分析器">
+  <component name="RunManager" selected="Application.$15三数之和">
+    <configuration name="$15三数之和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="$15三数之和" />
+      <module name="leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="$1672最富有客户资产" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="$1672最富有客户资产" />
       <module name="leetcode" />
@@ -63,13 +71,6 @@
     </configuration>
     <configuration name="$39组合总和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="$39组合总和" />
-      <module name="leetcode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="$51N皇后" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="$51N皇后" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -95,11 +96,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.$15三数之和" />
         <item itemvalue="Application.$385语法分析器" />
         <item itemvalue="Application.$39组合总和" />
         <item itemvalue="Application.test" />
         <item itemvalue="Application.$1672最富有客户资产" />
-        <item itemvalue="Application.$51N皇后" />
       </list>
     </recent_temporary>
   </component>
@@ -117,7 +118,7 @@
       <workItem from="1649900166120" duration="3210000" />
       <workItem from="1649923397998" duration="5911000" />
       <workItem from="1649929714846" duration="3443000" />
-      <workItem from="1649987485670" duration="3553000" />
+      <workItem from="1649987485670" duration="5562000" />
     </task>
     <servers />
   </component>
