@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7998fa7-d89f-433c-b08f-69932f9195de" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/$385语法分析器.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/$385语法分析器.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/NestedInteger.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/NestedInteger.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/小目标100/11-20/$15三数之和.java" beforeDir="false" afterPath="$PROJECT_DIR$/小目标100/11-20/$15三数之和.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/中目标500/401-500/$479最大回文乘积.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,13 +81,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -118,7 +118,7 @@
       <workItem from="1649900166120" duration="3210000" />
       <workItem from="1649923397998" duration="5911000" />
       <workItem from="1649929714846" duration="3443000" />
-      <workItem from="1649987485670" duration="5881000" />
+      <workItem from="1649987485670" duration="5945000" />
     </task>
     <servers />
   </component>
