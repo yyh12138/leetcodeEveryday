@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7998fa7-d89f-433c-b08f-69932f9195de" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/小目标100/11-20/$18四数之和.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/小目标100/31-40/$31下一排列.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/大目标1000/801-900/$819最常见单词.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +45,7 @@
     <property name="project.structure.side.proportion" value="0.27087575" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
   </component>
-  <component name="RunManager" selected="Application.$31下一排列">
+  <component name="RunManager" selected="Application.$819最常见单词">
     <configuration name="$15三数之和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="$15三数之和" />
       <module name="leetcode" />
@@ -75,8 +74,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test" />
+    <configuration name="$819最常见单词" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="$819最常见单词" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -95,11 +94,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.$819最常见单词" />
         <item itemvalue="Application.$31下一排列" />
         <item itemvalue="Application.$15三数之和" />
         <item itemvalue="Application.$385语法分析器" />
         <item itemvalue="Application.$39组合总和" />
-        <item itemvalue="Application.test" />
       </list>
     </recent_temporary>
   </component>
@@ -119,7 +118,7 @@
       <workItem from="1649929714846" duration="3443000" />
       <workItem from="1649987485670" duration="5945000" />
       <workItem from="1650072687593" duration="1432000" />
-      <workItem from="1650108893927" duration="4588000" />
+      <workItem from="1650108893927" duration="7471000" />
     </task>
     <servers />
   </component>
@@ -137,5 +136,21 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/大目标1000/801-900/$819最常见单词.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/大目标1000/801-900/$819最常见单词.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
