@@ -118,7 +118,7 @@
       <workItem from="1649929714846" duration="3443000" />
       <workItem from="1649987485670" duration="5945000" />
       <workItem from="1650072687593" duration="1432000" />
-      <workItem from="1650108893927" duration="7471000" />
+      <workItem from="1650108893927" duration="7626000" />
     </task>
     <servers />
   </component>
@@ -136,21 +136,5 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/大目标1000/801-900/$819最常见单词.java</url>
-          <line>21</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/大目标1000/801-900/$819最常见单词.java</url>
-          <line>52</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
