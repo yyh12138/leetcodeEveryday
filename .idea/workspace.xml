@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7998fa7-d89f-433c-b08f-69932f9195de" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/中目标500/301-400/$386字典序排数.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/小目标100/31-40/$38外观数组.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,14 +45,7 @@
     <property name="project.structure.side.proportion" value="0.27087575" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
   </component>
-  <component name="RunManager" selected="Application.$386字典序排数">
-    <configuration name="$15三数之和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="$15三数之和" />
-      <module name="leetcode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.$38外观数组">
     <configuration name="$31下一排列" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="$31下一排列" />
       <module name="leetcode" />
@@ -62,6 +55,13 @@
     </configuration>
     <configuration name="$34数组查找索引" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="$34数组查找索引" />
+      <module name="leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="$38外观数组" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="$38外观数组" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -96,11 +96,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.$38外观数组" />
         <item itemvalue="Application.$386字典序排数" />
         <item itemvalue="Application.$34数组查找索引" />
         <item itemvalue="Application.$819最常见单词" />
         <item itemvalue="Application.$31下一排列" />
-        <item itemvalue="Application.$15三数之和" />
       </list>
     </recent_temporary>
   </component>
@@ -123,7 +123,7 @@
       <workItem from="1650108893927" duration="7626000" />
       <workItem from="1650182520895" duration="139000" />
       <workItem from="1650186892057" duration="2803000" />
-      <workItem from="1650244384915" duration="1481000" />
+      <workItem from="1650244384915" duration="4694000" />
     </task>
     <servers />
   </component>
