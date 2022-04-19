@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7998fa7-d89f-433c-b08f-69932f9195de" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/大目标1000/801-900/$820字符最短距离.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/小目标100/31-40/$38外观数组.java" beforeDir="false" afterPath="$PROJECT_DIR$/小目标100/31-40/$38外观数组.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/大目标1000/801-900/$820字符最短距离.java" beforeDir="false" afterPath="$PROJECT_DIR$/大目标1000/801-900/$821字符最短距离.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +45,7 @@
     <property name="project.structure.side.proportion" value="0.27087575" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
   </component>
-  <component name="RunManager" selected="Application.$820字符最短距离">
+  <component name="RunManager" selected="Application.$821字符最短距离">
     <configuration name="$34数组查找索引" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="$34数组查找索引" />
       <module name="leetcode" />
@@ -75,27 +74,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="$820字符最短距离" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="$820字符最短距离" />
+    <configuration name="$821字符最短距离" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="$821字符最短距离" />
       <module name="leetcode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.$820字符最短距离" />
+        <item itemvalue="Application.$821字符最短距离" />
         <item itemvalue="Application.$38外观数组" />
         <item itemvalue="Application.$386字典序排数" />
         <item itemvalue="Application.$34数组查找索引" />
@@ -123,7 +111,7 @@
       <workItem from="1650182520895" duration="139000" />
       <workItem from="1650186892057" duration="2803000" />
       <workItem from="1650244384915" duration="4848000" />
-      <workItem from="1650348688984" duration="1541000" />
+      <workItem from="1650348688984" duration="2230000" />
     </task>
     <servers />
   </component>

@@ -9,7 +9,7 @@ import java.util.Arrays;
  * 对于下标 4 ，出现在下标 3 和下标 5 处的 'e' 都离它最近，但距离是一样的 abs(4 - 3) == abs(4 - 5) = 1 。
  * 距下标 8 最近的 'e' 出现在下标 6 ，所以距离为 abs(8 - 6) = 2 。
  */
-public class $820字符最短距离 {
+public class $821字符最短距离 {
 
     public int[] shortestToChar(String s, char c) {
         int [] res = new int[s.length()];
@@ -46,6 +46,6 @@ public class $820字符最短距离 {
     }
 
     public static void main(String[] args) {
-        System.out.println(Arrays.toString(new $820字符最短距离().shortestToChar("aaba", 'b')));
+        System.out.println(Arrays.toString(new $821字符最短距离().shortestToChar("aaba", 'b')));
     }
 }
