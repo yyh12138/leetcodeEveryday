@@ -49,6 +49,5 @@ public class $38外观数组 {
 
     public static void main(String[] args) {
         System.out.println(new $38外观数组().countAndSay(6));
-//        System.out.println("1".charAt(0));
     }
 }
