@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7998fa7-d89f-433c-b08f-69932f9195de" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/小目标100/61-70/$70爬楼梯.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/中目标500/301-400/$388文件最长绝对路径.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/$70爬楼梯.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/$70爬楼梯.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +46,7 @@
     <property name="project.structure.side.proportion" value="0.27087575" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
   </component>
-  <component name="RunManager" selected="Application.$70爬楼梯">
+  <component name="RunManager" selected="Application.$388文件最长绝对路径">
     <configuration name="$38外观数组" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="$38外观数组" />
       <module name="leetcode" />
@@ -53,8 +54,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="$386字典序排数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="$386字典序排数" />
+    <configuration name="$388文件最长绝对路径" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="$388文件最长绝对路径" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -94,11 +95,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.$388文件最长绝对路径" />
         <item itemvalue="Application.$70爬楼梯" />
         <item itemvalue="Application.$40数组总和二" />
         <item itemvalue="Application.$821字符最短距离" />
         <item itemvalue="Application.$38外观数组" />
-        <item itemvalue="Application.$386字典序排数" />
       </list>
     </recent_temporary>
   </component>
@@ -124,7 +125,9 @@
       <workItem from="1650244384915" duration="4848000" />
       <workItem from="1650348688984" duration="2230000" />
       <workItem from="1650354405909" duration="10807000" />
-      <workItem from="1650417864495" duration="2569000" />
+      <workItem from="1650417864495" duration="3580000" />
+      <workItem from="1650423551851" duration="1126000" />
+      <workItem from="1650439089878" duration="3340000" />
     </task>
     <servers />
   </component>
@@ -142,5 +145,16 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/中目标500/301-400/$388文件最长绝对路径.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
