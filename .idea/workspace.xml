@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7998fa7-d89f-433c-b08f-69932f9195de" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/中目标500/301-400/$388文件最长绝对路径.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/$70爬楼梯.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/$70爬楼梯.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/大目标1000/801-900/$824山羊拉丁文.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/中目标500/301-400/$388文件最长绝对路径.java" beforeDir="false" afterPath="$PROJECT_DIR$/中目标500/301-400/$388文件最长绝对路径.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,16 +44,9 @@
     <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.27087575" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.$388文件最长绝对路径">
-    <configuration name="$38外观数组" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="$38外观数组" />
-      <module name="leetcode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.$824山羊拉丁文">
     <configuration name="$388文件最长绝对路径" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="$388文件最长绝对路径" />
       <module name="leetcode" />
@@ -82,24 +75,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration name="$824山羊拉丁文" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="$824山羊拉丁文" />
+      <module name="leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.$824山羊拉丁文" />
         <item itemvalue="Application.$388文件最长绝对路径" />
         <item itemvalue="Application.$70爬楼梯" />
         <item itemvalue="Application.$40数组总和二" />
         <item itemvalue="Application.$821字符最短距离" />
-        <item itemvalue="Application.$38外观数组" />
       </list>
     </recent_temporary>
   </component>
@@ -127,7 +129,8 @@
       <workItem from="1650354405909" duration="10807000" />
       <workItem from="1650417864495" duration="3580000" />
       <workItem from="1650423551851" duration="1126000" />
-      <workItem from="1650439089878" duration="3340000" />
+      <workItem from="1650439089878" duration="4100000" />
+      <workItem from="1650504119810" duration="2752000" />
     </task>
     <servers />
   </component>
@@ -145,16 +148,5 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/中目标500/301-400/$388文件最长绝对路径.java</url>
-          <line>51</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
