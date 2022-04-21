@@ -8,6 +8,15 @@ class ListNode {
     ListNode() {}
     ListNode(int val) { this.val = val; }
     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
+    void print() {
+        ListNode tmp = this;
+        String res = "";
+        while (tmp!=null) {
+            res += tmp.val+"->";
+            tmp = tmp.next;
+        }
+        System.out.println(res.substring(0, res.length()-2));
+    }
 }
 public class $19删除倒数第N个结点 {
 

@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7998fa7-d89f-433c-b08f-69932f9195de" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/大目标1000/801-900/$824山羊拉丁文.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/中目标500/301-400/$388文件最长绝对路径.java" beforeDir="false" afterPath="$PROJECT_DIR$/中目标500/301-400/$388文件最长绝对路径.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/小目标100/11-20/$23合并k个升序链表.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/小目标100/11-20/$19删除倒数第N个结点.java" beforeDir="false" afterPath="$PROJECT_DIR$/小目标100/11-20/$19删除倒数第N个结点.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +32,9 @@
     </file-type-list>
   </component>
   <component name="ProjectId" id="27lgc5Y84qnp08yDJDn7dgQR2Yh" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
@@ -46,7 +49,14 @@
     <property name="project.structure.side.proportion" value="0.27087575" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.$824山羊拉丁文">
+  <component name="RunManager" selected="Application.$23合并k个升序链表">
+    <configuration name="$23合并k个升序链表" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="$23合并k个升序链表" />
+      <module name="leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="$388文件最长绝对路径" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="$388文件最长绝对路径" />
       <module name="leetcode" />
@@ -63,13 +73,6 @@
     </configuration>
     <configuration name="$70爬楼梯" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="$70爬楼梯" />
-      <module name="leetcode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="$821字符最短距离" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="$821字符最短距离" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -97,11 +100,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.$23合并k个升序链表" />
         <item itemvalue="Application.$824山羊拉丁文" />
         <item itemvalue="Application.$388文件最长绝对路径" />
         <item itemvalue="Application.$70爬楼梯" />
         <item itemvalue="Application.$40数组总和二" />
-        <item itemvalue="Application.$821字符最短距离" />
       </list>
     </recent_temporary>
   </component>
@@ -130,7 +133,7 @@
       <workItem from="1650417864495" duration="3580000" />
       <workItem from="1650423551851" duration="1126000" />
       <workItem from="1650439089878" duration="4100000" />
-      <workItem from="1650504119810" duration="2752000" />
+      <workItem from="1650504119810" duration="5923000" />
     </task>
     <servers />
   </component>
