@@ -66,14 +66,11 @@ public class $23合并k个升序链表 {
         for(int i = 0; i < mid; i++){
             l1[i] = lists[i];
         }
-
         ListNode[] l2 = new ListNode[lists.length-mid];
         for(int i = mid,j=0; i < lists.length; i++,j++){
             l2[j] = lists[i];
         }
-
         return mergeTwoLists(mergeKLists(l1),mergeKLists(l2));
-
     }
     public ListNode mergeTwoLists(ListNode l1, ListNode l2) {
         if (l1 == null) {
