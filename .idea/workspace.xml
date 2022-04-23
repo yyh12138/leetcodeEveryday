@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7998fa7-d89f-433c-b08f-69932f9195de" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/小目标100/31-40/$33搜索旋转数组.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/小目标100/61-70/$67二进制求和.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +48,7 @@
     <property name="project.structure.side.proportion" value="0.27087575" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.$33搜索旋转数组">
+  <component name="RunManager" selected="Application.$67二进制求和">
     <configuration name="$23合并k个升序链表" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="$23合并k个升序链表" />
       <module name="leetcode" />
@@ -63,15 +63,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="$388文件最长绝对路径" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="$388文件最长绝对路径" />
+    <configuration name="$396旋转函数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="$396旋转函数" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="$396旋转函数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="$396旋转函数" />
+    <configuration name="$67二进制求和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="$67二进制求和" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -84,24 +84,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.$67二进制求和" />
         <item itemvalue="Application.$33搜索旋转数组" />
         <item itemvalue="Application.$396旋转函数" />
         <item itemvalue="Application.$23合并k个升序链表" />
         <item itemvalue="Application.$824山羊拉丁文" />
-        <item itemvalue="Application.$388文件最长绝对路径" />
       </list>
     </recent_temporary>
   </component>
@@ -133,6 +135,7 @@
       <workItem from="1650504119810" duration="6190000" />
       <workItem from="1650525004266" duration="37000" />
       <workItem from="1650588262095" duration="4786000" />
+      <workItem from="1650676413276" duration="2493000" />
     </task>
     <servers />
   </component>
@@ -150,5 +153,16 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/小目标100/61-70/$67二进制求和.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
