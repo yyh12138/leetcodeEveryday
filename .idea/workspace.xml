@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7998fa7-d89f-433c-b08f-69932f9195de" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/小目标100/61-70/$67二进制求和.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/大目标1000/501-600/$587安装栅栏.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -135,7 +135,7 @@
       <workItem from="1650504119810" duration="6190000" />
       <workItem from="1650525004266" duration="37000" />
       <workItem from="1650588262095" duration="4786000" />
-      <workItem from="1650676413276" duration="2493000" />
+      <workItem from="1650676413276" duration="3361000" />
     </task>
     <servers />
   </component>
@@ -153,16 +153,5 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/小目标100/61-70/$67二进制求和.java</url>
-          <line>22</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
