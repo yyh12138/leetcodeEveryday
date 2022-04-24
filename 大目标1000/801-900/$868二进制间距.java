@@ -28,15 +28,27 @@ public class $868二进制间距 {
     }
 
     public int binaryGap(int n) {
-        String binaryString = "0"+Integer.toBinaryString(n)+"0";
-        List<String> split = Arrays.stream(binaryString.split("1")).sorted().collect(Collectors.toList());
-
-        return split.get(split.size()-1).length();
+        System.out.println(Integer.toBinaryString(n));
+        String binaryString = Integer.toBinaryString(n);
+        int res = 0, max = 0;
+        int tmp = -1;
+        for (int i = 0; i < binaryString.length(); i++) {
+            if (binaryString.charAt(i)=='1') {
+                if (tmp != -1) {
+                    max = i - tmp;
+                    if (max > res) {
+                        res = max;
+                    }
+                }
+                tmp = i;
+            }
+        }
+        return res;
     }
 
     public static void main(String[] args) {
-        System.out.println(Integer.toBinaryString(8));
-        System.out.println(new $868二进制间距().binaryGap(8));
+
+        System.out.println(new $868二进制间距().binaryGap(6));
     }
 
 }
