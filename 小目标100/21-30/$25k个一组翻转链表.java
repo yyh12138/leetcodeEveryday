@@ -13,29 +13,24 @@ public class $25k个一组翻转链表 {
      * @return
      */
     public ListNode reverseKGroup(ListNode head, int k) {
-        ListNode first = head;
-        ListNode last = head;
-        int split = 1;
-        if (k==0) {
-            return head;
+        ListNode dummy = new ListNode(0), prev = dummy, curr = head, next;
+        dummy.next = head;
+        int length = 0;
+        while(head != null) {
+            length++;
+            head = head.next;
         }
-        while (last!=null) {
-           if (k>split) {
-               last = last.next;
-               split++;
-           }
-           if (k==split) {
-               reverseK(first, last, k);
-               first = last.next;
-               last = first;
-               split = 1;
-           }
+        for(int i = 0; i < length / k; i++) {
+            for(int j = 0; j < k - 1; j++) {
+                next = curr.next;
+                curr.next = next.next;
+                next.next = prev.next;
+                prev.next = next;
+            }
+            prev = curr;
+            curr = prev.next;
         }
-        return head;
-    }
-    // k个结点翻转
-    private void reverseK(ListNode first, ListNode last, int k) {
-
+        return dummy.next;
     }
 
     /**
@@ -48,6 +43,6 @@ public class $25k个一组翻转链表 {
      */
     public static void main(String[] args) {
         ListNode head = new ListNode(1, new ListNode(2, new ListNode(3, new ListNode(4, new ListNode(5, null)))));
-        new $25k个一组翻转链表().reverseKGroup(head, 2).print();
+        new $25k个一组翻转链表().reverseKGroup(head, 4).print();
     }
 }

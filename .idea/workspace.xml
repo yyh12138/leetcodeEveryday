@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7998fa7-d89f-433c-b08f-69932f9195de" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/中目标500/301-400/$398随机数索引.java" beforeDir="false" afterPath="$PROJECT_DIR$/中目标500/301-400/$398随机数索引.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/$25k个一组翻转链表.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/$25k个一组翻转链表.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/小目标100/21-30/$25k个一组翻转链表.java" beforeDir="false" afterPath="$PROJECT_DIR$/小目标100/21-30/$25k个一组翻转链表.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +49,7 @@
     <property name="project.structure.side.proportion" value="0.27087575" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.$398随机数索引">
+  <component name="RunManager" selected="Application.$25k个一组翻转链表">
     <configuration name="$25k个一组翻转链表" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="$25k个一组翻转链表" />
       <module name="leetcode" />
@@ -97,8 +98,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.$398随机数索引" />
         <item itemvalue="Application.$25k个一组翻转链表" />
+        <item itemvalue="Application.$398随机数索引" />
         <item itemvalue="Application.$868二进制间距" />
         <item itemvalue="Application.$67二进制求和" />
         <item itemvalue="Application.$33搜索旋转数组" />
@@ -137,7 +138,7 @@
       <workItem from="1650762592563" duration="3708000" />
       <workItem from="1650770487867" duration="956000" />
       <workItem from="1650785512355" duration="1373000" />
-      <workItem from="1650848934546" duration="2299000" />
+      <workItem from="1650848934546" duration="4582000" />
     </task>
     <servers />
   </component>
