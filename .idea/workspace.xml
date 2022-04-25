@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7998fa7-d89f-433c-b08f-69932f9195de" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/中目标500/301-400/$398随机数索引.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/小目标100/21-30/$25k个一组翻转链表.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/中目标500/301-400/$398随机数索引.java" beforeDir="false" afterPath="$PROJECT_DIR$/中目标500/301-400/$398随机数索引.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -138,7 +137,7 @@
       <workItem from="1650762592563" duration="3708000" />
       <workItem from="1650770487867" duration="956000" />
       <workItem from="1650785512355" duration="1373000" />
-      <workItem from="1650848934546" duration="1986000" />
+      <workItem from="1650848934546" duration="2299000" />
     </task>
     <servers />
   </component>

@@ -29,7 +29,7 @@ public class $398随机数索引 {
         for (int i = 0; i < res.size(); i++) {
             if (res.get(i)==target) {
                 c++;
-                if (new Random().nextInt(c)==0) { // [0, i)随机到整数0的概率为1/i，最终k个target抽到的概率为1/k
+                if (new Random().nextInt(c)==0) { // [0, i)随机到整数0的概率为1/i，最终，k个target抽到的概率均为1/k
                     index = i;
                 }
             }
