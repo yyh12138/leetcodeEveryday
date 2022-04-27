@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7998fa7-d89f-433c-b08f-69932f9195de" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/中目标500/401-500/$417太平洋水流问题.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/小目标100/81-90/$83删除排序链表重复元素.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/$45跳跃游戏二.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/$45跳跃游戏二.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +49,7 @@
     <property name="project.structure.side.proportion" value="0.27087575" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.$45跳跃游戏二">
+  <component name="RunManager" selected="Application.$83删除排序链表重复元素">
     <configuration name="$25k个一组翻转链表" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="$25k个一组翻转链表" />
       <module name="leetcode" />
@@ -70,8 +71,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="$67二进制求和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="$67二进制求和" />
+    <configuration name="$83删除排序链表重复元素" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="$83删除排序链表重复元素" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -99,11 +100,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.$83删除排序链表重复元素" />
         <item itemvalue="Application.$45跳跃游戏二" />
         <item itemvalue="Application.$25k个一组翻转链表" />
         <item itemvalue="Application.$398随机数索引" />
         <item itemvalue="Application.$868二进制间距" />
-        <item itemvalue="Application.$67二进制求和" />
       </list>
     </recent_temporary>
   </component>
@@ -142,7 +143,7 @@
       <workItem from="1650848934546" duration="5049000" />
       <workItem from="1650868377992" duration="72000" />
       <workItem from="1650886706114" duration="7707000" />
-      <workItem from="1651022368142" duration="3663000" />
+      <workItem from="1651022368142" duration="6392000" />
     </task>
     <servers />
   </component>
