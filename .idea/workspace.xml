@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7998fa7-d89f-433c-b08f-69932f9195de" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/大目标1000/901-1000/$905奇偶排序数组.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/小目标100/91-100/$100相同的树.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,16 +48,16 @@
     <property name="project.structure.side.proportion" value="0.27087575" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.$905奇偶排序数组">
-    <configuration name="$25k个一组翻转链表" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="$25k个一组翻转链表" />
+  <component name="RunManager" selected="Application.$100相同的树">
+    <configuration name="$100相同的树" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="$100相同的树" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="$398随机数索引" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="$398随机数索引" />
+    <configuration name="$25k个一组翻转链表" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="$25k个一组翻转链表" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -97,11 +97,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.$100相同的树" />
         <item itemvalue="Application.$905奇偶排序数组" />
         <item itemvalue="Application.$83删除排序链表重复元素" />
         <item itemvalue="Application.$45跳跃游戏二" />
         <item itemvalue="Application.$25k个一组翻转链表" />
-        <item itemvalue="Application.$398随机数索引" />
       </list>
     </recent_temporary>
   </component>
@@ -141,7 +141,7 @@
       <workItem from="1650868377992" duration="72000" />
       <workItem from="1650886706114" duration="7707000" />
       <workItem from="1651022368142" duration="6496000" />
-      <workItem from="1651109916156" duration="1819000" />
+      <workItem from="1651109916156" duration="4520000" />
     </task>
     <servers />
   </component>
