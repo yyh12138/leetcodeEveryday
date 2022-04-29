@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7998fa7-d89f-433c-b08f-69932f9195de" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/中目标500/101-200/$119杨辉三角.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/中目标500/401-500/$427建立四叉树.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/中目标500/101-200/$119杨辉三角.java" beforeDir="false" afterPath="$PROJECT_DIR$/中目标500/101-200/$119杨辉三角.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +48,7 @@
     <property name="project.structure.side.proportion" value="0.27087575" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.$100相同的树">
+  <component name="RunManager" selected="Application.$119杨辉三角">
     <configuration name="$100相同的树" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="$100相同的树" />
       <module name="leetcode" />
@@ -57,8 +56,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="$25k个一组翻转链表" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="$25k个一组翻转链表" />
+    <configuration name="$119杨辉三角" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="$119杨辉三角" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -98,11 +97,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.$119杨辉三角" />
         <item itemvalue="Application.$100相同的树" />
         <item itemvalue="Application.$905奇偶排序数组" />
         <item itemvalue="Application.$83删除排序链表重复元素" />
         <item itemvalue="Application.$45跳跃游戏二" />
-        <item itemvalue="Application.$25k个一组翻转链表" />
       </list>
     </recent_temporary>
   </component>
@@ -144,7 +143,7 @@
       <workItem from="1651022368142" duration="6496000" />
       <workItem from="1651109916156" duration="5230000" />
       <workItem from="1651139134909" duration="529000" />
-      <workItem from="1651194494341" duration="2605000" />
+      <workItem from="1651194494341" duration="4605000" />
     </task>
     <servers />
   </component>
@@ -162,5 +161,26 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/中目标500/101-200/$119杨辉三角.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/中目标500/101-200/$119杨辉三角.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/中目标500/101-200/$119杨辉三角.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
