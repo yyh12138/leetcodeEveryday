@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7998fa7-d89f-433c-b08f-69932f9195de" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/中目标500/101-200/$101对称二叉树.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大目标1000/901-1000/$908最小差值一.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/超大目标5000/1001-1500/$1035两棵二叉搜索树中所有元素.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +48,7 @@
     <property name="project.structure.side.proportion" value="0.27087575" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.$101对称二叉树">
+  <component name="RunManager" selected="Application.$1035两棵二叉搜索树中所有元素">
     <configuration name="$100相同的树" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="$100相同的树" />
       <module name="leetcode" />
@@ -64,15 +63,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="$119杨辉三角" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="$119杨辉三角" />
+    <configuration name="$1035两棵二叉搜索树中所有元素" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="$1035两棵二叉搜索树中所有元素" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="$905奇偶排序数组" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="$905奇偶排序数组" />
+    <configuration name="$119杨辉三角" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="$119杨辉三角" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -85,26 +84,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.$1035两棵二叉搜索树中所有元素" />
         <item itemvalue="Application.$101对称二叉树" />
         <item itemvalue="Application.$908最小差值一" />
         <item itemvalue="Application.$119杨辉三角" />
         <item itemvalue="Application.$100相同的树" />
-        <item itemvalue="Application.$905奇偶排序数组" />
       </list>
     </recent_temporary>
   </component>
@@ -147,7 +144,8 @@
       <workItem from="1651109916156" duration="5230000" />
       <workItem from="1651139134909" duration="529000" />
       <workItem from="1651194494341" duration="4643000" />
-      <workItem from="1651282061330" duration="3041000" />
+      <workItem from="1651282061330" duration="3093000" />
+      <workItem from="1651365953185" duration="396000" />
     </task>
     <servers />
   </component>
