@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7998fa7-d89f-433c-b08f-69932f9195de" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/大目标1000/501-600/$591标签验证器.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/中目标500/101-200/$136只出现一次的数字一.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,13 +84,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -147,7 +149,8 @@
       <workItem from="1651282061330" duration="3093000" />
       <workItem from="1651365953185" duration="1063000" />
       <workItem from="1651395853505" duration="875000" />
-      <workItem from="1651453249571" duration="1065000" />
+      <workItem from="1651453249571" duration="1542000" />
+      <workItem from="1651481742402" duration="1633000" />
     </task>
     <servers />
   </component>
