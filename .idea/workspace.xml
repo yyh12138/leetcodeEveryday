@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7998fa7-d89f-433c-b08f-69932f9195de" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/中目标500/101-200/$136只出现一次的数字一.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/大目标1000/901-1000/$937重新排列日志.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +48,7 @@
     <property name="project.structure.side.proportion" value="0.27087575" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.$591标签验证器">
+  <component name="RunManager" selected="Application.$937重新排列日志">
     <configuration name="$101对称二叉树" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="$101对称二叉树" />
       <module name="leetcode" />
@@ -58,13 +58,6 @@
     </configuration>
     <configuration name="$1035两棵二叉搜索树中所有元素" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="$1035两棵二叉搜索树中所有元素" />
-      <module name="leetcode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="$119杨辉三角" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="$119杨辉三角" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -84,26 +77,31 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration name="$937重新排列日志" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="$937重新排列日志" />
+      <module name="leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.$937重新排列日志" />
         <item itemvalue="Application.$591标签验证器" />
         <item itemvalue="Application.$1035两棵二叉搜索树中所有元素" />
         <item itemvalue="Application.$101对称二叉树" />
         <item itemvalue="Application.$908最小差值一" />
-        <item itemvalue="Application.$119杨辉三角" />
       </list>
     </recent_temporary>
   </component>
@@ -150,7 +148,8 @@
       <workItem from="1651365953185" duration="1063000" />
       <workItem from="1651395853505" duration="875000" />
       <workItem from="1651453249571" duration="1542000" />
-      <workItem from="1651481742402" duration="1633000" />
+      <workItem from="1651481742402" duration="1652000" />
+      <workItem from="1651537913780" duration="3409000" />
     </task>
     <servers />
   </component>
