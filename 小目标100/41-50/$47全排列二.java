@@ -1,7 +1,4 @@
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.Collections;
-import java.util.List;
+import java.util.*;
 import java.util.stream.Collectors;
 
 /**
@@ -15,17 +12,23 @@ import java.util.stream.Collectors;
 public class $47全排列二 {
 
     public List<List<Integer>> permuteUnique(int[] nums) {
-        List<List<Integer>> res = new ArrayList<>();
-        List<Integer> collect = Arrays.stream(nums).boxed().sorted().collect(Collectors.toList());
-//        do {
-//            List<Integer> tmp = new ArrayList<>();
-//            for (int i = 0; i < collect.size(); i++) {
-//                tmp.add(collect.get(i));
-//            }
-//            res.add(tmp);
-//        }while ()
+        Set<List<Integer>> res = new HashSet<>();
+        List<Integer> output = Arrays.stream(nums).boxed().collect(Collectors.toList());
+        int n = nums.length;
+        dfs(n, output, res, 0);
+        return new ArrayList<>(res);
+    }
 
-        return res;
+    private void dfs(int n, List<Integer> output, Set<List<Integer>> res, int first) {
+        if (first==n) {
+            res.add(new ArrayList<>(output));
+        }else {
+            for (int i = first; i < n; i++) {
+                Collections.swap(output, first, i);
+                dfs(n, output, res, first+1);
+                Collections.swap(output, first, i);
+            }
+        }
     }
 
     public static void main(String[] args) {
