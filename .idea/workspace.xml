@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7998fa7-d89f-433c-b08f-69932f9195de" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/中目标500/101-200/$110平衡二叉树.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/大目标1000/901-1000/$933最近的请求次数.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +48,7 @@
     <property name="project.structure.side.proportion" value="0.27087575" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.$110平衡二叉树">
+  <component name="RunManager" selected="Application.$933最近的请求次数">
     <configuration name="$110平衡二叉树" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="$110平衡二叉树" />
       <module name="leetcode" />
@@ -77,8 +77,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="$937重新排列日志" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="$937重新排列日志" />
+    <configuration name="$933最近的请求次数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="$933最近的请求次数" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -97,11 +97,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.$933最近的请求次数" />
         <item itemvalue="Application.$110平衡二叉树" />
         <item itemvalue="Application.$731乘积小于k的子数组" />
         <item itemvalue="Application.$42接雨水" />
         <item itemvalue="Application.$1183游戏获胜者" />
-        <item itemvalue="Application.$937重新排列日志" />
       </list>
     </recent_temporary>
   </component>
@@ -155,7 +155,9 @@
       <workItem from="1651632956967" duration="26000" />
       <workItem from="1651650942696" duration="4880000" />
       <workItem from="1651661724524" duration="13000" />
-      <workItem from="1651710536295" duration="2440000" />
+      <workItem from="1651710536295" duration="2632000" />
+      <workItem from="1651714036929" duration="9000" />
+      <workItem from="1651799678627" duration="1576000" />
     </task>
     <servers />
   </component>
