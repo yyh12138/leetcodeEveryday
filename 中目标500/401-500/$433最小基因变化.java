@@ -9,47 +9,64 @@ import java.util.stream.Collectors;
 
 public class $433最小基因变化 {
 
-    List<Integer> times = new ArrayList<>();
+    boolean[] cache;
+    int min = -1;
+    int len;
     public int minMutation(String start, String end, String[] bank) {
-        List<String> list = new ArrayList<>(Arrays.asList(bank));
-        if(!list.contains(end)) {
+        if (notContains(bank, end)) {
             return -1;
         }
-        if (list.size()==1) {
-            return 1;
-        }
-        dfs(start, end, list, bank.length);
-        List<Integer> collect = times.stream().sorted().collect(Collectors.toList());
-        return collect.get(0);
-    }
-
-    private void dfs(String now, String end, List<String> bank, int size) {
-        if (now.equals(end)) {
-            if (size-bank.size()<=size) {
-                times.add(size-bank.size());
-            }
-        }else {
-            for (int i = 0; i < bank.size(); i++) {
-                String s = bank.get(i);
-                if (isNextGenetic(now, s)) {
-                    bank.remove(s);
-                    dfs(s, end, bank, size);
-                    bank.add(s);
-                }
+        len = bank.length;
+        cache = new boolean[len];
+        for (int i = 0; i < len; ++i) {
+            if (Objects.equals(bank[i], start)) {
+                cache[i] = true;
             }
         }
+        dfs(start, end, bank, 0);
+        return min;
     }
-
-    private boolean isNextGenetic(String now, String next) {
-        int flag = 0;
-        for (int i = 0; i < now.length(); i++) {
-            if (now.charAt(i)!=next.charAt(i)) {
-                flag++;
+    void dfs(String str, String end, String[] bank, int num) {
+        if (Objects.equals(str, end)) {
+            if (min == -1) {
+                min = num;
+            } else {
+                min = Math.min(num, min);
+            }
+            return;
+        }
+        for (int i = 0; i < len; ++i) {
+            if (!cache[i] && oneLetter(bank[i], str)) {
+                cache[i] = true;
+                dfs(bank[i], end, bank, num+1);
+                cache[i] = false;
             }
         }
-        return flag == 1;
     }
 
+    // 是否只有一个字符不同
+    boolean oneLetter(String s1, String s2) {
+        int num = 0;
+        for (int i = 0; i < 8; ++i) {
+            if (s1.charAt(i) != s2.charAt(i)) {
+                num++;
+            }
+        }
+        return num == 1;
+    }
+    // bank中不包含end
+    boolean notContains(String[] bank, String end) {
+        if (bank == null || bank.length == 0) {
+            return true;
+        }
+        int i = bank.length - 1;
+        while (i >= 0 && !Objects.equals(bank[i], end)) {
+            i--;
+        }
+        return i == -1;
+    }
+
+    // 广度优先遍历BFS
     public int minMutation2(String start, String end, String[] bank) {
         Set<String> cnt = new HashSet<>();
         Set<String> visited = new HashSet<>();
