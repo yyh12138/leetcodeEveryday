@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7998fa7-d89f-433c-b08f-69932f9195de" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/中目标500/401-500/$433最小基因变化.java" beforeDir="false" afterPath="$PROJECT_DIR$/中目标500/401-500/$433最小基因变化.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/中目标500/101-200/$168excel表列名称.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,9 +48,9 @@
     <property name="project.structure.side.proportion" value="0.27087575" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.$433最小基因变化">
-    <configuration name="$110平衡二叉树" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="$110平衡二叉树" />
+  <component name="RunManager" selected="Application.$168excel表列名称">
+    <configuration name="$168excel表列名称" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="$168excel表列名称" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -84,24 +84,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.$168excel表列名称" />
         <item itemvalue="Application.$433最小基因变化" />
         <item itemvalue="Application.$47全排列二" />
         <item itemvalue="Application.$46全排列" />
         <item itemvalue="Application.$933最近的请求次数" />
-        <item itemvalue="Application.$110平衡二叉树" />
       </list>
     </recent_temporary>
   </component>
@@ -160,7 +162,8 @@
       <workItem from="1651799678627" duration="2208000" />
       <workItem from="1651819768180" duration="2988000" />
       <workItem from="1651830090536" duration="15000" />
-      <workItem from="1651884509466" duration="4634000" />
+      <workItem from="1651884509466" duration="5228000" />
+      <workItem from="1651915364162" duration="335000" />
     </task>
     <servers />
   </component>
@@ -178,5 +181,19 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/中目标500/101-200/$168excel表列名称.java</url>
+          <line>28</line>
+          <properties class="$168excel表列名称" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
