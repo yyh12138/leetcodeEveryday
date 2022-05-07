@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7998fa7-d89f-433c-b08f-69932f9195de" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/小目标100/41-50/$47全排列二.java" beforeDir="false" afterPath="$PROJECT_DIR$/小目标100/41-50/$47全排列二.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/中目标500/401-500/$433最小基因变化.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,9 +48,16 @@
     <property name="project.structure.side.proportion" value="0.27087575" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.$47全排列二">
+  <component name="RunManager" selected="Application.$433最小基因变化">
     <configuration name="$110平衡二叉树" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="$110平衡二叉树" />
+      <module name="leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="$433最小基因变化" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="$433最小基因变化" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -70,13 +77,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="$731乘积小于k的子数组" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="$731乘积小于k的子数组" />
-      <module name="leetcode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="$933最近的请求次数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="$933最近的请求次数" />
       <module name="leetcode" />
@@ -84,26 +84,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.$433最小基因变化" />
         <item itemvalue="Application.$47全排列二" />
         <item itemvalue="Application.$46全排列" />
         <item itemvalue="Application.$933最近的请求次数" />
         <item itemvalue="Application.$110平衡二叉树" />
-        <item itemvalue="Application.$731乘积小于k的子数组" />
       </list>
     </recent_temporary>
   </component>
@@ -160,7 +158,9 @@
       <workItem from="1651710536295" duration="2632000" />
       <workItem from="1651714036929" duration="9000" />
       <workItem from="1651799678627" duration="2208000" />
-      <workItem from="1651819768180" duration="2250000" />
+      <workItem from="1651819768180" duration="2988000" />
+      <workItem from="1651830090536" duration="15000" />
+      <workItem from="1651884509466" duration="3951000" />
     </task>
     <servers />
   </component>
