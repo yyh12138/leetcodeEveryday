@@ -15,7 +15,7 @@ public class $442数组中重复数据 {
         List<Integer> ret = new ArrayList<>();
         int n = nums.length;
         for(int i = 0; i < n; i++){
-            nums[(nums[i] - 1) % n] += n;
+            nums[(nums[i] - 1)] += n;
         }
 
         for(int i = 0; i < n; i++){

@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7998fa7-d89f-433c-b08f-69932f9195de" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/中目标500/401-500/$442数组中重复数据.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/中目标500/101-200/$191位1个数.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/$442数组中重复数据.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/$442数组中重复数据.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/中目标500/401-500/$442数组中重复数据.java" beforeDir="false" afterPath="$PROJECT_DIR$/中目标500/401-500/$442数组中重复数据.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,9 +50,16 @@
     <property name="project.structure.side.proportion" value="0.27087575" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.$442数组中重复数据">
+  <component name="RunManager" selected="Application.$191位1个数">
     <configuration name="$168excel表列名称" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="$168excel表列名称" />
+      <module name="leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="$191位1个数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="$191位1个数" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -70,13 +79,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="$46全排列" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="$46全排列" />
-      <module name="leetcode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="$47全排列二" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="$47全排列二" />
       <module name="leetcode" />
@@ -84,24 +86,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.$191位1个数" />
         <item itemvalue="Application.$442数组中重复数据" />
         <item itemvalue="Application.$168excel表列名称" />
         <item itemvalue="Application.$433最小基因变化" />
         <item itemvalue="Application.$47全排列二" />
-        <item itemvalue="Application.$46全排列" />
       </list>
     </recent_temporary>
   </component>
@@ -162,7 +166,8 @@
       <workItem from="1651830090536" duration="15000" />
       <workItem from="1651884509466" duration="5228000" />
       <workItem from="1651915364162" duration="417000" />
-      <workItem from="1651971351173" duration="2269000" />
+      <workItem from="1651971351173" duration="2954000" />
+      <workItem from="1651990895881" duration="1621000" />
     </task>
     <servers />
   </component>
