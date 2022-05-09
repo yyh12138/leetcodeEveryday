@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7998fa7-d89f-433c-b08f-69932f9195de" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/大目标1000/901-1000/$942递增字符串匹配.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/小目标100/21-30/$30串联所有单词子串.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,13 +42,13 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../work/Java/DNSServerAnalysis" />
     <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.27087575" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.$942递增字符串匹配">
+  <component name="RunManager" selected="Application.$30串联所有单词子串">
     <configuration name="$168excel表列名称" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="$168excel表列名称" />
       <module name="leetcode" />
@@ -63,8 +63,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="$433最小基因变化" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="$433最小基因变化" />
+    <configuration name="$30串联所有单词子串" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="$30串联所有单词子串" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -84,24 +84,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.$30串联所有单词子串" />
         <item itemvalue="Application.$942递增字符串匹配" />
         <item itemvalue="Application.$191位1个数" />
         <item itemvalue="Application.$442数组中重复数据" />
         <item itemvalue="Application.$168excel表列名称" />
-        <item itemvalue="Application.$433最小基因变化" />
       </list>
     </recent_temporary>
   </component>
@@ -164,7 +153,9 @@
       <workItem from="1651915364162" duration="417000" />
       <workItem from="1651971351173" duration="2954000" />
       <workItem from="1651990895881" duration="1884000" />
-      <workItem from="1652057645832" duration="2022000" />
+      <workItem from="1652057645832" duration="3304000" />
+      <workItem from="1652066122173" duration="2754000" />
+      <workItem from="1652081996431" duration="2721000" />
     </task>
     <servers />
   </component>
@@ -182,5 +173,26 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/小目标100/21-30/$30串联所有单词子串.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/小目标100/21-30/$30串联所有单词子串.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/小目标100/21-30/$30串联所有单词子串.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
