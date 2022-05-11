@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7998fa7-d89f-433c-b08f-69932f9195de" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/大目标1000/901-1000/$913猫和老鼠.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/超大目标5000/1501-2000/$1728猫和老鼠二.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/中目标500/401-500/$449序列化和反序列化二叉搜索树.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,14 +48,7 @@
     <property name="project.structure.side.proportion" value="0.27087575" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.$30串联所有单词子串">
-    <configuration name="$168excel表列名称" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="$168excel表列名称" />
-      <module name="leetcode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.$449序列化和反序列化二叉搜索树">
     <configuration name="$191位1个数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="$191位1个数" />
       <module name="leetcode" />
@@ -78,6 +70,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="$449序列化和反序列化二叉搜索树" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="$449序列化和反序列化二叉搜索树" />
+      <module name="leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="$942递增字符串匹配" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="$942递增字符串匹配" />
       <module name="leetcode" />
@@ -85,26 +84,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.$449序列化和反序列化二叉搜索树" />
         <item itemvalue="Application.$30串联所有单词子串" />
         <item itemvalue="Application.$942递增字符串匹配" />
         <item itemvalue="Application.$191位1个数" />
         <item itemvalue="Application.$442数组中重复数据" />
-        <item itemvalue="Application.$168excel表列名称" />
       </list>
     </recent_temporary>
   </component>
@@ -170,7 +167,8 @@
       <workItem from="1652057645832" duration="3304000" />
       <workItem from="1652066122173" duration="2754000" />
       <workItem from="1652081996431" duration="2926000" />
-      <workItem from="1652146914690" duration="1466000" />
+      <workItem from="1652146914690" duration="1497000" />
+      <workItem from="1652236447779" duration="3284000" />
     </task>
     <servers />
   </component>
