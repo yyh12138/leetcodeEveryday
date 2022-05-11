@@ -26,20 +26,18 @@ public class $449序列化和反序列化二叉搜索树 {
 }
 
 class Codec {
-    // Encodes a tree to a single string.
     public String serialize(TreeNode root) {
         List<Integer> list = new ArrayList<>();
         postOrder(root, list);
         String str = list.toString();
         return str.substring(1, str.length() - 1);
     }
-    // Decodes your encoded data to tree.
     public TreeNode deserialize(String data) {
         if (data.isEmpty()) {
             return null;
         }
         String[] arr = data.split(", ");
-        Deque<Integer> stack = new ArrayDeque<Integer>();
+        Deque<Integer> stack = new ArrayDeque<>();
         int length = arr.length;
         for (int i = 0; i < length; i++) {
             stack.push(Integer.parseInt(arr[i]));
