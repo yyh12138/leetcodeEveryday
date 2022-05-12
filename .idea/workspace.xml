@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7998fa7-d89f-433c-b08f-69932f9195de" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/小目标100/91-100/$93复原IP地址.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/$449序列化和反序列化二叉搜索树.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/$449序列化和反序列化二叉搜索树.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/Codec.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/Codec.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/大目标1000/901-1000/$944删列造序.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,14 +48,7 @@
     <property name="project.structure.side.proportion" value="0.27087575" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.$93复原IP地址">
-    <configuration name="$191位1个数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="$191位1个数" />
-      <module name="leetcode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.$944删列造序">
     <configuration name="$30串联所有单词子串" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="$30串联所有单词子串" />
       <module name="leetcode" />
@@ -86,26 +77,31 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration name="$944删列造序" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="$944删列造序" />
+      <module name="leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.$944删列造序" />
         <item itemvalue="Application.$93复原IP地址" />
         <item itemvalue="Application.$449序列化和反序列化二叉搜索树" />
         <item itemvalue="Application.$30串联所有单词子串" />
         <item itemvalue="Application.$942递增字符串匹配" />
-        <item itemvalue="Application.$191位1个数" />
       </list>
     </recent_temporary>
   </component>
@@ -173,7 +169,8 @@
       <workItem from="1652081996431" duration="2926000" />
       <workItem from="1652146914690" duration="1497000" />
       <workItem from="1652236447779" duration="3885000" />
-      <workItem from="1652269445673" duration="3367000" />
+      <workItem from="1652269445673" duration="4606000" />
+      <workItem from="1652317609163" duration="2007000" />
     </task>
     <servers />
   </component>
