@@ -44,19 +44,17 @@ public class $691贴纸拼图 {
         for (int i = 0; i < n; i++) { // 枚举尝试使用每一种贴纸，做第一张
             int[] sticker = stickers[i];
             int[] nextCnts = new int[26];
-            // 如果target中的字母在sticker中都不存在，搞定个锤子？尝试下一个吧
+            // 如果target中的字母在sticker中都不存在。尝试下一个
             if (!hasLetterInSticker(sticker, target)) {
                 continue;
             }
             // 可以使用这种贴纸，取用1张，消去字符：
             StringBuilder sb = new StringBuilder();
             for (int j = 0; j < 26; j++) {
-                int cnt = Math.max(targetCnts[j] - sticker[j], 0);
+                int cnt = Math.max(targetCnts[j] - sticker[j], 0); // 还剩cnt张相同的字母
                 char letter = (char) ('a' + j);
-                for (int k = 0; k < cnt; k++) {
-                    sb.append(letter);
-                }
-                nextCnts[j] = cnt;
+                sb.append(String.valueOf(letter).repeat(Math.max(0, cnt))); // sb为原target还剩的字符构成的字符串
+                nextCnts[j] = cnt; // nextCnts为sb的字符串词频表
             }
             // 继续DFS：
             int next = dfs(stickers, sb.toString(), nextCnts, memo);
@@ -67,11 +65,11 @@ public class $691贴纸拼图 {
         return ans;
     }
 
-    // 贴纸sticker中是否含有target中的字母？
+    // 贴纸sticker中是否含有target中的字母？：
     // 如果target的所有字母都不在贴纸sticker中，返回false；
     // 反之，只要有任意一个字母（不妨设为target[0]）存在于贴纸sticker中，返回true；
     private boolean hasLetterInSticker(int[] sticker, String target) {
-        return sticker[target.charAt(0) - 'a'] != 0;
+        return sticker[target.charAt(0) - 'a'] != 0; // 佛性剪枝
     }
 
     public static void main(String[] args) {
