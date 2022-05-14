@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7998fa7-d89f-433c-b08f-69932f9195de" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/小目标100/31-40/$32最长有效括号.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/大目标1000/601-700/$691贴纸拼图.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/$32最长有效括号.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/$32最长有效括号.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/小目标100/31-40/$32最长有效括号.java" beforeDir="false" afterPath="$PROJECT_DIR$/小目标100/31-40/$32最长有效括号.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,14 +50,7 @@
     <property name="project.structure.side.proportion" value="0.27087575" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.$32最长有效括号">
-    <configuration name="$30串联所有单词子串" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="$30串联所有单词子串" />
-      <module name="leetcode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.$691贴纸拼图">
     <configuration name="$32最长有效括号" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="$32最长有效括号" />
       <module name="leetcode" />
@@ -65,6 +60,13 @@
     </configuration>
     <configuration name="$449序列化和反序列化二叉搜索树" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="$449序列化和反序列化二叉搜索树" />
+      <module name="leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="$691贴纸拼图" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="$691贴纸拼图" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -99,11 +101,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.$691贴纸拼图" />
         <item itemvalue="Application.$32最长有效括号" />
         <item itemvalue="Application.$944删列造序" />
         <item itemvalue="Application.$93复原IP地址" />
         <item itemvalue="Application.$449序列化和反序列化二叉搜索树" />
-        <item itemvalue="Application.$30串联所有单词子串" />
       </list>
     </recent_temporary>
   </component>
@@ -175,7 +177,10 @@
       <workItem from="1652317609163" duration="2067000" />
       <workItem from="1652340781757" duration="11000" />
       <workItem from="1652407145670" duration="1843000" />
-      <workItem from="1652432240427" duration="4918000" />
+      <workItem from="1652432240427" duration="4955000" />
+      <workItem from="1652439381721" duration="424000" />
+      <workItem from="1652495070951" duration="4725000" />
+      <workItem from="1652513113607" duration="3074000" />
     </task>
     <servers />
   </component>

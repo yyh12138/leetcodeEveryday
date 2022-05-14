@@ -40,7 +40,7 @@ public class $32最长有效括号 {
         }
         return ans;
     }
-    
+
     public int longestValidParentheses2(String s) {
         int n = s.length(),cout = 0,max = 0;
         int[] dp = new int[n];
@@ -51,14 +51,15 @@ public class $32最长有效括号 {
                     dp[i] += i > dp[i] ? dp[i - dp[i]] : 0;
                     cout--;
                 }
-            }else
+            }else {
                 cout++;
+            }
             max = Math.max(dp[i],max);
         }
         return max;
     }
 
     public static void main(String[] args) {
-        System.out.println(new $32最长有效括号().longestValidParentheses("(()()")); // 2
+        System.out.println(new $32最长有效括号().longestValidParentheses2("(()()")); // 2
     }
 }
