@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7998fa7-d89f-433c-b08f-69932f9195de" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/大目标1000/801-900/$812最大三角形面积.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/中目标500/101-200/$114环形链表.java" beforeDir="false" afterPath="$PROJECT_DIR$/中目标500/101-200/$114环形链表.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/中目标500/101-200/$104二叉树最大深度.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/小目标100/41-50/$41缺失的第一个正数.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/小目标100/71-80/$77组合.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/$812最大三角形面积.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/$812最大三角形面积.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/大目标1000/801-900/$812最大三角形面积.java" beforeDir="false" afterPath="$PROJECT_DIR$/大目标1000/801-900/$812最大三角形面积.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +52,14 @@
     <property name="project.structure.side.proportion" value="0.27087575" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.$812最大三角形面积">
+  <component name="RunManager" selected="Application.$104二叉树最大深度">
+    <configuration name="$104二叉树最大深度" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="$104二叉树最大深度" />
+      <module name="leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="$114环形链表" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="$114环形链表" />
       <module name="leetcode" />
@@ -57,15 +67,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="$32最长有效括号" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="$32最长有效括号" />
+    <configuration name="$41缺失的第一个正数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="$41缺失的第一个正数" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="$691贴纸拼图" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="$691贴纸拼图" />
+    <configuration name="$77组合" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="$77组合" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -73,13 +83,6 @@
     </configuration>
     <configuration name="$812最大三角形面积" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="$812最大三角形面积" />
-      <module name="leetcode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="$944删列造序" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="$944删列造序" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -100,11 +103,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.$104二叉树最大深度" />
+        <item itemvalue="Application.$77组合" />
+        <item itemvalue="Application.$41缺失的第一个正数" />
         <item itemvalue="Application.$812最大三角形面积" />
         <item itemvalue="Application.$114环形链表" />
-        <item itemvalue="Application.$691贴纸拼图" />
-        <item itemvalue="Application.$32最长有效括号" />
-        <item itemvalue="Application.$944删列造序" />
       </list>
     </recent_temporary>
   </component>
@@ -181,7 +184,9 @@
       <workItem from="1652495070951" duration="4725000" />
       <workItem from="1652513113607" duration="4366000" />
       <workItem from="1652529490812" duration="1306000" />
-      <workItem from="1652575633882" duration="2128000" />
+      <workItem from="1652575633882" duration="4692000" />
+      <workItem from="1652597288460" duration="2212000" />
+      <workItem from="1652618660750" duration="2517000" />
     </task>
     <servers />
   </component>

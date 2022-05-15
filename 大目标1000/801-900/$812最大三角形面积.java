@@ -55,7 +55,7 @@ public class $812最大三角形面积 {
             }
             return a[0] - b[0];
         });
-        List<int[]> hull = new ArrayList<int[]>();
+        List<int[]> hull = new ArrayList<>();
         /* 求出凸包的下半部分 */
         for (int i = 0; i < n; i++) {
             while (hull.size() > 1 && cross(hull.get(hull.size() - 2), hull.get(hull.size() - 1), points[i]) <= 0) {
