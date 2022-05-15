@@ -5,6 +5,7 @@
  */
 public class $114环形链表 {
 
+    // 利用 Set<ListNode> 存node对象
     public boolean hasCycle(ListNode head) {
         ListNode t = head;
         while (t!=null) {
