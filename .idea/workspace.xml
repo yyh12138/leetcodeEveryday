@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7998fa7-d89f-433c-b08f-69932f9195de" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/中目标500/101-200/$104二叉树最大深度.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/小目标100/41-50/$41缺失的第一个正数.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/小目标100/71-80/$77组合.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/$812最大三角形面积.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/$812最大三角形面积.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/大目标1000/801-900/$812最大三角形面积.java" beforeDir="false" afterPath="$PROJECT_DIR$/大目标1000/801-900/$812最大三角形面积.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面试题/01-05/$0406后继者.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,16 +48,16 @@
     <property name="project.structure.side.proportion" value="0.27087575" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.$104二叉树最大深度">
-    <configuration name="$104二叉树最大深度" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="$104二叉树最大深度" />
+  <component name="RunManager" selected="Application.$0406后继者">
+    <configuration name="$0406后继者" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="$0406后继者" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="$114环形链表" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="$114环形链表" />
+    <configuration name="$104二叉树最大深度" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="$104二叉树最大深度" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -88,26 +84,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.$0406后继者" />
         <item itemvalue="Application.$104二叉树最大深度" />
         <item itemvalue="Application.$77组合" />
         <item itemvalue="Application.$41缺失的第一个正数" />
         <item itemvalue="Application.$812最大三角形面积" />
-        <item itemvalue="Application.$114环形链表" />
       </list>
     </recent_temporary>
   </component>
@@ -186,7 +180,8 @@
       <workItem from="1652529490812" duration="1306000" />
       <workItem from="1652575633882" duration="4692000" />
       <workItem from="1652597288460" duration="2212000" />
-      <workItem from="1652618660750" duration="2517000" />
+      <workItem from="1652618660750" duration="2600000" />
+      <workItem from="1652663573146" duration="1339000" />
     </task>
     <servers />
   </component>
@@ -204,5 +199,16 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/面试题/01-05/$0406后继者.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
