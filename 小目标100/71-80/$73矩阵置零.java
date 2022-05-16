@@ -10,7 +10,7 @@ import java.util.Set;
  */
 public class $73矩阵置零 {
 
-    // 方法1、使用O(m+n)  
+    // 方法1、使用O(m+n)
     // 方法2、使用O(1+1)=>使用两个标记，标记出第一行和第一列是否全是0，然后将矩阵内部情况标记在第一行和第一列中
     public void setZeroes(int[][] matrix) {
         int w = matrix[0].length;
