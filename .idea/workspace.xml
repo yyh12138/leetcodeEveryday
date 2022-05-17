@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7998fa7-d89f-433c-b08f-69932f9195de" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/小目标100/91-100/$不同的二叉搜索树.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/小目标100/71-80/$73矩阵置零.java" beforeDir="false" afterPath="$PROJECT_DIR$/小目标100/71-80/$73矩阵置零.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/大目标1000/901-1000/$953验证外星语词典.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/小目标100/91-100/$95不同的二叉搜索树二.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,13 +85,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -184,7 +186,8 @@
       <workItem from="1652618660750" duration="2600000" />
       <workItem from="1652663573146" duration="2250000" />
       <workItem from="1652694171931" duration="2564000" />
-      <workItem from="1652706223347" duration="1099000" />
+      <workItem from="1652706223347" duration="1188000" />
+      <workItem from="1652748583038" duration="4305000" />
     </task>
     <servers />
   </component>
