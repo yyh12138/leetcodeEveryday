@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7998fa7-d89f-433c-b08f-69932f9195de" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/中目标500/101-200/$125验证回文串.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/大目标1000/601-700/$668乘法表中第K小的数.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +48,7 @@
     <property name="project.structure.side.proportion" value="0.27087575" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.$125验证回文串">
+  <component name="RunManager" selected="Application.$668乘法表中第K小的数">
     <configuration name="$0406后继者" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="$0406后继者" />
       <module name="leetcode" />
@@ -56,15 +56,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="$104二叉树最大深度" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="$104二叉树最大深度" />
+    <configuration name="$125验证回文串" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="$125验证回文串" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="$125验证回文串" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="$125验证回文串" />
+    <configuration name="$668乘法表中第K小的数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="$668乘法表中第K小的数" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -84,24 +84,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.$668乘法表中第K小的数" />
         <item itemvalue="Application.$125验证回文串" />
         <item itemvalue="Application.$96不同的二叉搜索树" />
         <item itemvalue="Application.$73矩阵置零" />
         <item itemvalue="Application.$0406后继者" />
-        <item itemvalue="Application.$104二叉树最大深度" />
       </list>
     </recent_temporary>
   </component>
@@ -185,7 +187,8 @@
       <workItem from="1652694171931" duration="2564000" />
       <workItem from="1652706223347" duration="1188000" />
       <workItem from="1652748583038" duration="4439000" />
-      <workItem from="1652787443408" duration="3212000" />
+      <workItem from="1652787443408" duration="3281000" />
+      <workItem from="1652834192880" duration="3253000" />
     </task>
     <servers />
   </component>
