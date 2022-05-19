@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7998fa7-d89f-433c-b08f-69932f9195de" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/大目标1000/601-700/$668乘法表中第K小的数.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/中目标500/401-500/$462最少移动次数使数组元素相等二.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/大目标1000/601-700/$668乘法表中第K小的数.java" beforeDir="false" afterPath="$PROJECT_DIR$/大目标1000/601-700/$668乘法表中第K小的数.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,15 +85,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -188,7 +187,8 @@
       <workItem from="1652706223347" duration="1188000" />
       <workItem from="1652748583038" duration="4439000" />
       <workItem from="1652787443408" duration="3281000" />
-      <workItem from="1652834192880" duration="3253000" />
+      <workItem from="1652834192880" duration="4647000" />
+      <workItem from="1652922935783" duration="1170000" />
     </task>
     <servers />
   </component>

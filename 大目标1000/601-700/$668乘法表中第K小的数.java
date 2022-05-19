@@ -15,7 +15,7 @@ import java.util.List;
  */
 public class $668乘法表中第K小的数 {
 
-    // 第k小、第k大的数，简单中等题就是优先队列，难题就是二分
+    // *** 第k小、第k大的数，简单中等题就是优先队列，难题就是二分
     public int findKthNumber(int m, int n, int k) {
         int i = 1, j = m*n+1;
         while (i<j) {
@@ -27,7 +27,6 @@ public class $668乘法表中第K小的数 {
                 i = mid+1;
             }
         }
-
         return i;
     }
     // 在m*n的表中得到不大于num的个数
