@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7998fa7-d89f-433c-b08f-69932f9195de" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/中目标500/401-500/$436寻找右区间.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/小目标100/41-50/$44通配符匹配.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/小目标100/51-60/$54螺旋矩阵.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/$668乘法表中第K小的数.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/$668乘法表中第K小的数.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/小目标100/51-60/$54螺旋矩阵.java" beforeDir="false" afterPath="$PROJECT_DIR$/小目标100/51-60/$54螺旋矩阵.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +48,7 @@
     <property name="project.structure.side.proportion" value="0.27087575" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.$436寻找右区间">
+  <component name="RunManager" selected="Application.$54螺旋矩阵">
     <configuration name="$125验证回文串" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="$125验证回文串" />
       <module name="leetcode" />
@@ -73,15 +70,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="$668乘法表中第K小的数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="$668乘法表中第K小的数" />
+    <configuration name="$54螺旋矩阵" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="$54螺旋矩阵" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="$96不同的二叉搜索树" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="$96不同的二叉搜索树" />
+    <configuration name="$668乘法表中第K小的数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="$668乘法表中第K小的数" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -100,11 +97,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.$54螺旋矩阵" />
         <item itemvalue="Application.$436寻找右区间" />
         <item itemvalue="Application.$462最少移动次数使数组元素相等二" />
         <item itemvalue="Application.$668乘法表中第K小的数" />
         <item itemvalue="Application.$125验证回文串" />
-        <item itemvalue="Application.$96不同的二叉搜索树" />
       </list>
     </recent_temporary>
   </component>
@@ -192,7 +189,7 @@
       <workItem from="1652834192880" duration="4647000" />
       <workItem from="1652922935783" duration="2874000" />
       <workItem from="1652955728040" duration="5541000" />
-      <workItem from="1653009051923" duration="2579000" />
+      <workItem from="1653009051923" duration="4012000" />
     </task>
     <servers />
   </component>
