@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7998fa7-d89f-433c-b08f-69932f9195de" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/大目标1000/601-700/$675为比赛砍树.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/小目标100/51-60/$55跳跃游戏.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/中目标500/401-500/$464我能赢吗.java" beforeDir="false" afterPath="$PROJECT_DIR$/中目标500/401-500/$464我能赢吗.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/大目标1000/901-1000/$965单值二叉树.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/$55跳跃游戏.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/$55跳跃游戏.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/$675为比赛砍树.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/$675为比赛砍树.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/小目标100/51-60/$55跳跃游戏.java" beforeDir="false" afterPath="$PROJECT_DIR$/小目标100/51-60/$55跳跃游戏.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,14 +51,7 @@
     <property name="project.structure.side.proportion" value="0.27087575" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.$675为比赛砍树">
-    <configuration name="$436寻找右区间" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="$436寻找右区间" />
-      <module name="leetcode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.$965单值二叉树">
     <configuration name="$464我能赢吗" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="$464我能赢吗" />
       <module name="leetcode" />
@@ -65,8 +59,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="$54螺旋矩阵" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="$54螺旋矩阵" />
+    <configuration name="$55跳跃游戏" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="$55跳跃游戏" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -81,6 +75,13 @@
     </configuration>
     <configuration name="$961长度2N数组中找出重复N次元素" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="$961长度2N数组中找出重复N次元素" />
+      <module name="leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="$965单值二叉树" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="$965单值二叉树" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -101,11 +102,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.$965单值二叉树" />
+        <item itemvalue="Application.$55跳跃游戏" />
         <item itemvalue="Application.$675为比赛砍树" />
         <item itemvalue="Application.$464我能赢吗" />
         <item itemvalue="Application.$961长度2N数组中找出重复N次元素" />
-        <item itemvalue="Application.$54螺旋矩阵" />
-        <item itemvalue="Application.$436寻找右区间" />
       </list>
     </recent_temporary>
   </component>
@@ -197,6 +198,8 @@
       <workItem from="1653099675212" duration="3802000" />
       <workItem from="1653180769267" duration="15006000" />
       <workItem from="1653269088349" duration="5054000" />
+      <workItem from="1653289694689" duration="3790000" />
+      <workItem from="1653356016527" duration="872000" />
     </task>
     <servers />
   </component>
