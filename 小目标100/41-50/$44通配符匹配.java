@@ -11,33 +11,51 @@
 
 public class $44通配符匹配 {
 
+    /**
+     * pj与si对应
+     *              si==pj && dp[i-1][j-1]    pj=[a-z]
+     * dp[i][j]  =  dp[i-1][j-1]              pj=?
+     *              dp[i][j-1] || dp[i-1][j]  pj=*
+     * @param s
+     * @param p
+     * @return
+     */
     public boolean isMatch(String s, String p) {
-        int i = 0, j = 0, length = s.length(), len = p.length();
-        StringBuilder ss = new StringBuilder(s);
-        StringBuilder pattern = new StringBuilder(p);
-        while (i<length && j<len) {
-            if (pattern.charAt(j)=='?') {
-
-            }else if (pattern.charAt(j)=='*') {
-                for (int k = 0; k <= len; k++) {
-
-                }
-            }else {
-                if (ss.charAt(i)==pattern.charAt(j)) {
-                    ss.deleteCharAt(i);
-                    pattern.deleteCharAt(i);
+        boolean[][] dp = new boolean[s.length()+1][p.length()+1];
+        // 初始化dp
+        initDP(s, p, dp);
+        for (int i = 1; i <= s.length(); i++) {
+            char si = s.charAt(i-1);
+            for (int j = 1; j <= p.length(); j++) {
+                char pj = p.charAt(j-1);
+                if (pj=='*') {
+                    dp[i][j] = dp[i][j-1] || dp[i-1][j];
+                }else if(pj=='?') {
+                    dp[i][j] = dp[i-1][j-1];
                 }else {
-                    return false;
+                    dp[i][j] = (si == pj && dp[i - 1][j - 1]);
                 }
             }
-            i++;
-            j++;
         }
+        return dp[s.length()][p.length()];
+    }
 
-        return true;
+    private void initDP(String s, String pattern, boolean[][] dp) {
+        dp[0][0] = true;
+        for (int i = 1; i <= s.length(); i++) {
+            dp[i][0] = false;
+        }
+        for (int j = 0; j < pattern.length(); j++) {
+            char c = pattern.charAt(j);
+            if (c=='*') {
+                dp[0][j+1] = true;
+            }else {
+                break;
+            }
+        }
     }
 
     public static void main(String[] args) {
-        System.out.println(new $44通配符匹配().isMatch("cdcb", "*c?b"));
+        System.out.println(new $44通配符匹配().isMatch("aab", "c*a*b"));
     }
 }

@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7998fa7-d89f-433c-b08f-69932f9195de" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/大目标1000/901-1000/$965单值二叉树.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/$55跳跃游戏.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/$55跳跃游戏.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/$675为比赛砍树.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/$675为比赛砍树.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/小目标100/51-60/$55跳跃游戏.java" beforeDir="false" afterPath="$PROJECT_DIR$/小目标100/51-60/$55跳跃游戏.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/$44通配符匹配.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/$44通配符匹配.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/小目标100/41-50/$44通配符匹配.java" beforeDir="false" afterPath="$PROJECT_DIR$/小目标100/41-50/$44通配符匹配.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +49,14 @@
     <property name="project.structure.side.proportion" value="0.27087575" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.$965单值二叉树">
+  <component name="RunManager" selected="Application.$44通配符匹配">
+    <configuration name="$44通配符匹配" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="$44通配符匹配" />
+      <module name="leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="$464我能赢吗" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="$464我能赢吗" />
       <module name="leetcode" />
@@ -73,13 +78,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="$961长度2N数组中找出重复N次元素" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="$961长度2N数组中找出重复N次元素" />
-      <module name="leetcode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="$965单值二叉树" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="$965单值二叉树" />
       <module name="leetcode" />
@@ -87,26 +85,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.$44通配符匹配" />
         <item itemvalue="Application.$965单值二叉树" />
         <item itemvalue="Application.$55跳跃游戏" />
         <item itemvalue="Application.$675为比赛砍树" />
         <item itemvalue="Application.$464我能赢吗" />
-        <item itemvalue="Application.$961长度2N数组中找出重复N次元素" />
       </list>
     </recent_temporary>
   </component>
@@ -199,7 +195,8 @@
       <workItem from="1653180769267" duration="15006000" />
       <workItem from="1653269088349" duration="5054000" />
       <workItem from="1653289694689" duration="3790000" />
-      <workItem from="1653356016527" duration="872000" />
+      <workItem from="1653356016527" duration="6090000" />
+      <workItem from="1653378191087" duration="798000" />
     </task>
     <servers />
   </component>
@@ -217,5 +214,16 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/小目标100/41-50/$44通配符匹配.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
