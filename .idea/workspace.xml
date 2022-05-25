@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7998fa7-d89f-433c-b08f-69932f9195de" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/$44通配符匹配.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/$44通配符匹配.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/小目标100/41-50/$44通配符匹配.java" beforeDir="false" afterPath="$PROJECT_DIR$/小目标100/41-50/$44通配符匹配.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/中目标500/401-500/$467环绕字符串中唯一子字符串.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +48,7 @@
     <property name="project.structure.side.proportion" value="0.27087575" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.$44通配符匹配">
+  <component name="RunManager" selected="Application.$467环绕字符串中唯一子字符串">
     <configuration name="$44通配符匹配" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="$44通配符匹配" />
       <module name="leetcode" />
@@ -57,8 +56,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="$464我能赢吗" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="$464我能赢吗" />
+    <configuration name="$467环绕字符串中唯一子字符串" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="$467环绕字符串中唯一子字符串" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -85,24 +84,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.$467环绕字符串中唯一子字符串" />
         <item itemvalue="Application.$44通配符匹配" />
         <item itemvalue="Application.$965单值二叉树" />
         <item itemvalue="Application.$55跳跃游戏" />
         <item itemvalue="Application.$675为比赛砍树" />
-        <item itemvalue="Application.$464我能赢吗" />
       </list>
     </recent_temporary>
   </component>
@@ -196,7 +197,8 @@
       <workItem from="1653269088349" duration="5054000" />
       <workItem from="1653289694689" duration="3790000" />
       <workItem from="1653356016527" duration="6090000" />
-      <workItem from="1653378191087" duration="798000" />
+      <workItem from="1653378191087" duration="1466000" />
+      <workItem from="1653443852480" duration="2793000" />
     </task>
     <servers />
   </component>
@@ -219,9 +221,9 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/小目标100/41-50/$44通配符匹配.java</url>
-          <line>26</line>
-          <option name="timeStamp" value="6" />
+          <url>file://$PROJECT_DIR$/中目标500/401-500/$467环绕字符串中唯一子字符串.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="18" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
