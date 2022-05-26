@@ -13,7 +13,7 @@ import java.util.Set;
  */
 public class $467环绕字符串中唯一子字符串 {
 
-    // 唯一的子字符串的数量就等于：分别以a，b， c， d。。。z结尾的最长子字符串的长度之和
+    // 唯一的子字符串的数量就等于：分别以a,b,c,d...z结尾的最长子字符串的长度之和
     public int findSubstringInWraproundString(String p) {
         int n = p.length();
         if(n < 1) { return 0; }
