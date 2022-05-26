@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7998fa7-d89f-433c-b08f-69932f9195de" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/大目标1000/601-700/$699掉落方块.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/小目标100/51-60/$56合并区间.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/$467环绕字符串中唯一子字符串.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/$467环绕字符串中唯一子字符串.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/中目标500/401-500/$467环绕字符串中唯一子字符串.java" beforeDir="false" afterPath="$PROJECT_DIR$/中目标500/401-500/$467环绕字符串中唯一子字符串.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/中目标500/401-500/$427建立四叉树.java" beforeDir="false" afterPath="$PROJECT_DIR$/中目标500/401-500/$427建立四叉树.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/大目标1000/601-700/$699掉落方块.java" beforeDir="false" afterPath="$PROJECT_DIR$/大目标1000/601-700/$699掉落方块.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,15 +86,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -205,7 +201,8 @@
       <workItem from="1653443852480" duration="3033000" />
       <workItem from="1653448579691" duration="9000" />
       <workItem from="1653472004775" duration="3873000" />
-      <workItem from="1653531235713" duration="4288000" />
+      <workItem from="1653531235713" duration="4310000" />
+      <workItem from="1653551070631" duration="4350000" />
     </task>
     <servers />
   </component>
