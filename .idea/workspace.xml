@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7998fa7-d89f-433c-b08f-69932f9195de" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/面试题/15-20/$1711单词距离.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/$427建立四叉树.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/$427建立四叉树.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/$699掉落方块.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/$699掉落方块.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/大目标1000/601-700/$699掉落方块.java" beforeDir="false" afterPath="$PROJECT_DIR$/大目标1000/601-700/$699掉落方块.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/中目标500/101-200/$171excel序列号.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +49,14 @@
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.$699掉落方块">
+  <component name="RunManager" selected="Application.$171excel序列号">
+    <configuration name="$171excel序列号" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="$171excel序列号" />
+      <module name="leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="$44通配符匹配" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="$44通配符匹配" />
       <module name="leetcode" />
@@ -82,13 +85,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="$965单值二叉树" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="$965单值二叉树" />
-      <module name="leetcode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -102,11 +98,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.$171excel序列号" />
         <item itemvalue="Application.$699掉落方块" />
         <item itemvalue="Application.$56合并区间" />
         <item itemvalue="Application.$467环绕字符串中唯一子字符串" />
         <item itemvalue="Application.$44通配符匹配" />
-        <item itemvalue="Application.$965单值二叉树" />
       </list>
     </recent_temporary>
   </component>
@@ -208,7 +204,7 @@
       <workItem from="1653551070631" duration="4575000" />
       <workItem from="1653559748376" duration="1168000" />
       <workItem from="1653573638851" duration="3825000" />
-      <workItem from="1653612542273" duration="1012000" />
+      <workItem from="1653612542273" duration="2990000" />
     </task>
     <servers />
   </component>
