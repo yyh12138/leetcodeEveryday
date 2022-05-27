@@ -157,11 +157,12 @@ public class $699掉落方块 {
 
 
     public static void main(String[] args) {
-        System.out.println(new $699掉落方块().fallingSquares(new int[][]{
-                {6,1}, {9,2}, {2,4}
-        }));
-        System.out.println(new $699掉落方块().fallingSquares(new int[][]{
-                {6,1}, {9,2}, {2,4}
+//        System.out.println(new $699掉落方块().fallingSquares(new int[][]{
+//                {6,1}, {9,2}, {2,4}
+//        }));
+        System.out.println(new $699掉落方块().fallingSquares2(new int[][]{
+//                {6,1}, {9,2}, {2,4}
+                {2,2}, {3,2}, {6,1}
         }));
 
     }
