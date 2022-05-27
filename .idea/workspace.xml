@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7998fa7-d89f-433c-b08f-69932f9195de" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/中目标500/101-200/$171excel序列号.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/中目标500/101-200/$190颠倒二进制位.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,13 +85,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -204,7 +206,8 @@
       <workItem from="1653551070631" duration="4575000" />
       <workItem from="1653559748376" duration="1168000" />
       <workItem from="1653573638851" duration="3825000" />
-      <workItem from="1653612542273" duration="2990000" />
+      <workItem from="1653612542273" duration="3255000" />
+      <workItem from="1653636506019" duration="2296000" />
     </task>
     <servers />
   </component>
