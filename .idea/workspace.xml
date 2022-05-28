@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7998fa7-d89f-433c-b08f-69932f9195de" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/中目标500/101-200/$190颠倒二进制位.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/中目标500/101-200/$155最小栈.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/超大目标5000/1001-1500/$1021删除最外层括号.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/中目标500/101-200/$190颠倒二进制位.java" beforeDir="false" afterPath="$PROJECT_DIR$/中目标500/101-200/$190颠倒二进制位.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,23 +51,23 @@
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.$171excel序列号">
+  <component name="RunManager" selected="Application.$1021删除最外层括号">
+    <configuration name="$1021删除最外层括号" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="$1021删除最外层括号" />
+      <module name="leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="$155最小栈" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="$155最小栈" />
+      <module name="leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="$171excel序列号" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="$171excel序列号" />
-      <module name="leetcode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="$44通配符匹配" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="$44通配符匹配" />
-      <module name="leetcode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="$467环绕字符串中唯一子字符串" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="$467环绕字符串中唯一子字符串" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -100,11 +102,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.$1021删除最外层括号" />
+        <item itemvalue="Application.$155最小栈" />
         <item itemvalue="Application.$171excel序列号" />
         <item itemvalue="Application.$699掉落方块" />
         <item itemvalue="Application.$56合并区间" />
-        <item itemvalue="Application.$467环绕字符串中唯一子字符串" />
-        <item itemvalue="Application.$44通配符匹配" />
       </list>
     </recent_temporary>
   </component>
@@ -207,7 +209,9 @@
       <workItem from="1653559748376" duration="1168000" />
       <workItem from="1653573638851" duration="3825000" />
       <workItem from="1653612542273" duration="3255000" />
-      <workItem from="1653636506019" duration="2296000" />
+      <workItem from="1653636506019" duration="2614000" />
+      <workItem from="1653659055327" duration="2833000" />
+      <workItem from="1653719811509" duration="1041000" />
     </task>
     <servers />
   </component>
@@ -243,6 +247,11 @@
           <url>file://$PROJECT_DIR$/大目标1000/601-700/$699掉落方块.java</url>
           <line>100</line>
           <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/中目标500/101-200/$155最小栈.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

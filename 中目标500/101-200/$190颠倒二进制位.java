@@ -14,8 +14,8 @@ public class $190颠倒二进制位 {
     }
 
     public int reverseBits2(int n) {
-        int a=0;
-        for(int i=0;i<=31;i++){
+        int a = 0;
+        for(int i=0; i<=31; i++){
             a = a + ((1&(n>>i))<<(31-i));
         }
         return a;
