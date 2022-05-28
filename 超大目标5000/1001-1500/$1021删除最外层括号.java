@@ -35,8 +35,6 @@ public class $1021删除最外层括号 {
         return res.toString();
     }
 
-
-
     public static void main(String[] args) {
         System.out.println(new $1021删除最外层括号().removeOuterParentheses("(()())(())"));
     }
