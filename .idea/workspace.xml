@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7998fa7-d89f-433c-b08f-69932f9195de" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/中目标500/401-500/$468验证IP地址.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/小目标100/51-60/$57插入区间.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/小目标100/51-60/$57插入区间.java" beforeDir="false" afterPath="$PROJECT_DIR$/小目标100/51-60/$57插入区间.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +49,7 @@
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.$468验证IP地址">
+  <component name="RunManager" selected="Application.$57插入区间">
     <configuration name="$1021删除最外层括号" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="$1021删除最外层括号" />
       <module name="leetcode" />
@@ -86,21 +85,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.$468验证IP地址" />
         <item itemvalue="Application.$57插入区间" />
+        <item itemvalue="Application.$468验证IP地址" />
         <item itemvalue="Application.$56合并区间" />
         <item itemvalue="Application.$1021删除最外层括号" />
         <item itemvalue="Application.$155最小栈" />
@@ -211,7 +212,8 @@
       <workItem from="1653719811509" duration="1624000" />
       <workItem from="1653723118328" duration="6230000" />
       <workItem from="1653740808879" duration="8594000" />
-      <workItem from="1653785730120" duration="2954000" />
+      <workItem from="1653785730120" duration="3791000" />
+      <workItem from="1653808008796" duration="1105000" />
     </task>
     <servers />
   </component>
