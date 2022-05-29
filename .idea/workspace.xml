@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7998fa7-d89f-433c-b08f-69932f9195de" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/小目标100/51-60/$56合并区间.java" beforeDir="false" afterPath="$PROJECT_DIR$/小目标100/51-60/$56合并区间.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/超大目标5000/1001-1500/$1021删除最外层括号.java" beforeDir="false" afterPath="$PROJECT_DIR$/超大目标5000/1001-1500/$1021删除最外层括号.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/中目标500/401-500/$468验证IP地址.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/小目标100/51-60/$57插入区间.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +50,7 @@
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.$56合并区间">
+  <component name="RunManager" selected="Application.$468验证IP地址">
     <configuration name="$1021删除最外层括号" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="$1021删除最外层括号" />
       <module name="leetcode" />
@@ -65,8 +65,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="$171excel序列号" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="$171excel序列号" />
+    <configuration name="$468验证IP地址" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="$468验证IP地址" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -79,8 +79,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="$699掉落方块" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="$699掉落方块" />
+    <configuration name="$57插入区间" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="$57插入区间" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -99,11 +99,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.$468验证IP地址" />
+        <item itemvalue="Application.$57插入区间" />
         <item itemvalue="Application.$56合并区间" />
         <item itemvalue="Application.$1021删除最外层括号" />
         <item itemvalue="Application.$155最小栈" />
-        <item itemvalue="Application.$171excel序列号" />
-        <item itemvalue="Application.$699掉落方块" />
       </list>
     </recent_temporary>
   </component>
@@ -209,7 +209,9 @@
       <workItem from="1653636506019" duration="2614000" />
       <workItem from="1653659055327" duration="2833000" />
       <workItem from="1653719811509" duration="1624000" />
-      <workItem from="1653723118328" duration="6181000" />
+      <workItem from="1653723118328" duration="6230000" />
+      <workItem from="1653740808879" duration="8594000" />
+      <workItem from="1653785730120" duration="2954000" />
     </task>
     <servers />
   </component>
