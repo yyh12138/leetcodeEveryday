@@ -47,7 +47,7 @@ public class $57插入区间 {
         }
         return res.toArray(new int[res.size()][]);
     }
-    // todo 特殊情况判断
+
     private int getLeftIndex(List<Integer> nums, int num, int flag) {
         if (flag==0) {
             for (int i = num; i >= 0; i--) {
