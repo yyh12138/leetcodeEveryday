@@ -75,7 +75,7 @@ public class $114外星文字典 {
 
     public static void main(String[] args) {
         System.out.println(new $114外星文字典().alienOrder(new String[]{
-                "wrt","wrf","er","ett","rftt", "rfttt"
+                "abc", "abd"
         }));
     }
 }

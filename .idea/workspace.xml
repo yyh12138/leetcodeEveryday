@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7998fa7-d89f-433c-b08f-69932f9195de" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/剑指Offer2/1-500/$114外星文字典.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/小目标100/91-100/$98验证二叉搜索树.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/$114外星文字典.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/$114外星文字典.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/剑指Offer2/1-500/$114外星文字典.java" beforeDir="false" afterPath="$PROJECT_DIR$/剑指Offer2/1-500/$114外星文字典.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +51,7 @@
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.$114外星文字典">
+  <component name="RunManager" selected="Application.$98验证二叉搜索树">
     <configuration name="$1022从根到叶的二进制数和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="$1022从根到叶的二进制数和" />
       <module name="leetcode" />
@@ -71,13 +73,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="$56合并区间" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="$56合并区间" />
-      <module name="leetcode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="$57插入区间" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="$57插入区间" />
       <module name="leetcode" />
@@ -85,26 +80,31 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration name="$98验证二叉搜索树" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="$98验证二叉搜索树" />
+      <module name="leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.$98验证二叉搜索树" />
         <item itemvalue="Application.$114外星文字典" />
         <item itemvalue="Application.$1022从根到叶的二进制数和" />
         <item itemvalue="Application.$57插入区间" />
         <item itemvalue="Application.$468验证IP地址" />
-        <item itemvalue="Application.$56合并区间" />
       </list>
     </recent_temporary>
   </component>
@@ -215,7 +215,9 @@
       <workItem from="1653785730120" duration="3791000" />
       <workItem from="1653808008796" duration="2644000" />
       <workItem from="1653873127550" duration="2563000" />
-      <workItem from="1653961292201" duration="6215000" />
+      <workItem from="1653961292201" duration="8285000" />
+      <workItem from="1653987355004" duration="1668000" />
+      <workItem from="1654001757858" duration="2393000" />
     </task>
     <servers />
   </component>
