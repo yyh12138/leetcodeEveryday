@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7998fa7-d89f-433c-b08f-69932f9195de" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/小目标100/91-100/$98验证二叉搜索树.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/$114外星文字典.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/$114外星文字典.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/剑指Offer2/1-500/$114外星文字典.java" beforeDir="false" afterPath="$PROJECT_DIR$/剑指Offer2/1-500/$114外星文字典.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/中目标500/401-500/$473火柴拼正方形.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +49,7 @@
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.$98验证二叉搜索树">
+  <component name="RunManager" selected="Application.$473火柴拼正方形">
     <configuration name="$1022从根到叶的二进制数和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="$1022从根到叶的二进制数和" />
       <module name="leetcode" />
@@ -66,8 +64,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="$468验证IP地址" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="$468验证IP地址" />
+    <configuration name="$473火柴拼正方形" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="$473火柴拼正方形" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -87,24 +85,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.$473火柴拼正方形" />
         <item itemvalue="Application.$98验证二叉搜索树" />
         <item itemvalue="Application.$114外星文字典" />
         <item itemvalue="Application.$1022从根到叶的二进制数和" />
         <item itemvalue="Application.$57插入区间" />
-        <item itemvalue="Application.$468验证IP地址" />
       </list>
     </recent_temporary>
   </component>
@@ -217,7 +217,8 @@
       <workItem from="1653873127550" duration="2563000" />
       <workItem from="1653961292201" duration="8285000" />
       <workItem from="1653987355004" duration="1668000" />
-      <workItem from="1654001757858" duration="2393000" />
+      <workItem from="1654001757858" duration="2710000" />
+      <workItem from="1654044151361" duration="3093000" />
     </task>
     <servers />
   </component>
