@@ -8,7 +8,7 @@ public class $98验证二叉搜索树 {
 
     boolean flag = true;
 
-    public boolean isValidBST(TreeNode root) {
+    public boolean isValidBST2(TreeNode root) {
         List<Integer> res = new ArrayList<>();
         preOrder(root, res);
         for (int i = 0; i < res.size()-1; i++) {
@@ -19,24 +19,6 @@ public class $98验证二叉搜索树 {
         }
         return flag;
     }
-
-    private void inorder(TreeNode root) {
-        if (root==null) {
-            return;
-        }else {
-            if (root.left!=null && root.left.val>=root.val) {
-                flag = false;
-            }else {
-                inorder(root.left);
-            }
-            if (root.right!=null && root.right.val<=root.val) {
-                flag = false;
-            }else {
-                inorder(root.right);
-            }
-        }
-    }
-
     private void preOrder(TreeNode node, List<Integer> res) {
         if(node==null) {
             return;
@@ -47,9 +29,22 @@ public class $98验证二叉搜索树 {
         }
     }
 
+    public boolean isValidBST(TreeNode root) {
+        return validate(root, Long.MIN_VALUE, Long.MAX_VALUE);
+    }
+    public boolean validate(TreeNode node, long min, long max) {
+        if (node == null) {
+            return true;
+        }
+        if (node.val <= min || node.val >= max) {
+            return false;
+        }
+        return  validate(node.left, min, node.val) && validate(node.right, node.val, max);
+    }
+
     public static void main(String[] args) {
-        TreeNode root = new TreeNode(2, new TreeNode(1),
-                                    new TreeNode(3));
+        TreeNode root = new TreeNode(2, new TreeNode(2),
+                                    new TreeNode(2));
         System.out.println(new $98验证二叉搜索树().isValidBST(root));
     }
 }
