@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7998fa7-d89f-433c-b08f-69932f9195de" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/中目标500/401-500/$450删除二叉搜索树中节点.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/大目标1000/801-900/$829连续整数求和.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,14 +49,7 @@
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.$450删除二叉搜索树中节点">
-    <configuration name="$1022从根到叶的二进制数和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="$1022从根到叶的二进制数和" />
-      <module name="leetcode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.$829连续整数求和">
     <configuration name="$114外星文字典" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="$114外星文字典" />
       <module name="leetcode" />
@@ -78,6 +71,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="$829连续整数求和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="$829连续整数求和" />
+      <module name="leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="$98验证二叉搜索树" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="$98验证二叉搜索树" />
       <module name="leetcode" />
@@ -85,24 +85,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.$829连续整数求和" />
         <item itemvalue="Application.$450删除二叉搜索树中节点" />
         <item itemvalue="Application.$98验证二叉搜索树" />
         <item itemvalue="Application.$473火柴拼正方形" />
         <item itemvalue="Application.$114外星文字典" />
-        <item itemvalue="Application.$1022从根到叶的二进制数和" />
       </list>
     </recent_temporary>
   </component>
@@ -217,7 +219,8 @@
       <workItem from="1653987355004" duration="1668000" />
       <workItem from="1654001757858" duration="2710000" />
       <workItem from="1654044151361" duration="5576000" />
-      <workItem from="1654130291118" duration="4637000" />
+      <workItem from="1654130291118" duration="4920000" />
+      <workItem from="1654217780487" duration="3048000" />
     </task>
     <servers />
   </component>
