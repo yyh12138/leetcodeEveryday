@@ -9,6 +9,11 @@
  */
 public class $829连续整数求和 {
 
+    /**
+     * 判断当有i个连续数字时，是否满足条件；当有i+1个数字时，数组中第i+1个数与第一个数的差为i，所以N每执行一次循环都减i。若能整除i，那么这些连续整数的开始的元素就是N/i了
+     * @param n
+     * @return
+     */
     public int consecutiveNumbersSum(int n) {
         int ans = 0;
         for (int i = 1; (n -= i) >= 0; ++i) {
