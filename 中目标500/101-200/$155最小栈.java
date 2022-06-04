@@ -48,11 +48,7 @@ class MinStack {
         }else{
             int tmp = stack.peek();
             stack.push(val);
-            if(tmp<val){
-                stack.push(tmp);
-            }else{
-                stack.push(val);
-            }
+            stack.push(Math.min(tmp, val));
         }
     }
 
