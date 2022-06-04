@@ -1,6 +1,4 @@
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Stack;
+import java.util.*;
 
 /**
  * 输入：
@@ -38,45 +36,36 @@ public class $155最小栈 {
 
 class MinStack {
 
-    int index; // 最小值位置
-    List<Integer> list;
-
+    Stack<Integer> stack;
     public MinStack() {
-        index = -1;
-        list = new ArrayList<>();
+        stack = new Stack<>();
     }
 
     public void push(int val) {
-        if (list.size()==0) {
-            index = 0;
-        }else {
-            if (list.get(index)>val) {
-                index = list.size();
+        if(stack.isEmpty()){
+            stack.push(val);
+            stack.push(val);
+        }else{
+            int tmp = stack.peek();
+            stack.push(val);
+            if(tmp<val){
+                stack.push(tmp);
+            }else{
+                stack.push(val);
             }
         }
-        list.add(val);
     }
 
     public void pop() {
-        list.remove(list.size()-1);
-        if (index==list.size()) {
-            // 找移去后的最小元素下标
-            int min = Integer.MAX_VALUE;
-            for (int i=0; i<list.size(); i++) {
-                Integer tmp = list.get(i);
-                if (tmp < min) {
-                    min = tmp;
-                    index = i;
-                }
-            }
-        }
+        stack.pop();
+        stack.pop();
     }
 
     public int top() {
-        return list.get(list.size()-1);
+        return stack.get(stack.size()-2);
     }
 
     public int getMin() {
-        return list.get(index);
+        return stack.peek();
     }
 }
