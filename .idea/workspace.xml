@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7998fa7-d89f-433c-b08f-69932f9195de" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/大目标1000/701-800/$732日程安排表三.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/大目标1000/801-900/$875爱吃香蕉的珂珂.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +49,7 @@
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.$732日程安排表三">
+  <component name="RunManager" selected="Application.$875爱吃香蕉的珂珂">
     <configuration name="$155最小栈" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="$155最小栈" />
       <module name="leetcode" />
@@ -71,8 +71,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="$829连续整数求和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="$829连续整数求和" />
+    <configuration name="$875爱吃香蕉的珂珂" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="$875爱吃香蕉的珂珂" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -85,26 +85,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.$875爱吃香蕉的珂珂" />
         <item itemvalue="Application.$732日程安排表三" />
         <item itemvalue="Application.$478在圆内随机生成点" />
         <item itemvalue="Application.$155最小栈" />
         <item itemvalue="Application.$929独特电子邮件地址" />
-        <item itemvalue="Application.$829连续整数求和" />
       </list>
     </recent_temporary>
   </component>
@@ -224,7 +222,8 @@
       <workItem from="1654305988349" duration="1171000" />
       <workItem from="1654332566373" duration="1600000" />
       <workItem from="1654391879300" duration="1205000" />
-      <workItem from="1654477327290" duration="3554000" />
+      <workItem from="1654477327290" duration="3581000" />
+      <workItem from="1654567899534" duration="2116000" />
     </task>
     <servers />
   </component>
