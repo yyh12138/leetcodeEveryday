@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7998fa7-d89f-433c-b08f-69932f9195de" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/中目标500/401-500/$497非重叠矩阵随机点.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/大目标1000/701-800/$730统计不同回文子序列.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,17 +81,6 @@
     <configuration name="$875爱吃香蕉的珂珂" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="$875爱吃香蕉的珂珂" />
       <module name="leetcode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -225,7 +214,8 @@
       <workItem from="1654477327290" duration="3581000" />
       <workItem from="1654567899534" duration="2380000" />
       <workItem from="1654603336365" duration="43000" />
-      <workItem from="1654737255060" duration="852000" />
+      <workItem from="1654737255060" duration="1120000" />
+      <workItem from="1654819271973" duration="1314000" />
     </task>
     <servers />
   </component>
