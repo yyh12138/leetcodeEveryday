@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7998fa7-d89f-433c-b08f-69932f9195de" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/大目标1000/701-800/$730统计不同回文子序列.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/大目标1000/901-1000/$926字符串翻转到单调递增.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,14 +49,7 @@
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.$497非重叠矩阵随机点">
-    <configuration name="$155最小栈" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="$155最小栈" />
-      <module name="leetcode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.$926字符串翻转到单调递增">
     <configuration name="$478在圆内随机生成点" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="$478在圆内随机生成点" />
       <module name="leetcode" />
@@ -85,13 +78,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="$926字符串翻转到单调递增" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="$926字符串翻转到单调递增" />
+      <module name="leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.$926字符串翻转到单调递增" />
         <item itemvalue="Application.$497非重叠矩阵随机点" />
         <item itemvalue="Application.$875爱吃香蕉的珂珂" />
         <item itemvalue="Application.$732日程安排表三" />
         <item itemvalue="Application.$478在圆内随机生成点" />
-        <item itemvalue="Application.$155最小栈" />
       </list>
     </recent_temporary>
   </component>
@@ -216,6 +229,9 @@
       <workItem from="1654603336365" duration="43000" />
       <workItem from="1654737255060" duration="1120000" />
       <workItem from="1654819271973" duration="1314000" />
+      <workItem from="1654873888045" duration="75000" />
+      <workItem from="1654916590730" duration="2564000" />
+      <workItem from="1654931605336" duration="3240000" />
     </task>
     <servers />
   </component>
