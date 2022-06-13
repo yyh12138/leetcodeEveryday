@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7998fa7-d89f-433c-b08f-69932f9195de" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/大目标1000/801-900/$890查找和替换模式.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/超大目标5000/1001-1500/$1051高度检查器.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,9 +49,9 @@
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.$926字符串翻转到单调递增">
-    <configuration name="$478在圆内随机生成点" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="$478在圆内随机生成点" />
+  <component name="RunManager" selected="Application.$1051高度检查器">
+    <configuration name="$1051高度检查器" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="$1051高度检查器" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -98,11 +98,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.$1051高度检查器" />
         <item itemvalue="Application.$926字符串翻转到单调递增" />
         <item itemvalue="Application.$497非重叠矩阵随机点" />
         <item itemvalue="Application.$875爱吃香蕉的珂珂" />
         <item itemvalue="Application.$732日程安排表三" />
-        <item itemvalue="Application.$478在圆内随机生成点" />
       </list>
     </recent_temporary>
   </component>
@@ -230,7 +230,9 @@
       <workItem from="1654873888045" duration="75000" />
       <workItem from="1654916590730" duration="2564000" />
       <workItem from="1654931605336" duration="3474000" />
-      <workItem from="1655019935580" duration="1455000" />
+      <workItem from="1655019935580" duration="1570000" />
+      <workItem from="1655022198510" duration="144000" />
+      <workItem from="1655079795364" duration="1269000" />
     </task>
     <servers />
   </component>
