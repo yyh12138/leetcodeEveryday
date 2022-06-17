@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7998fa7-d89f-433c-b08f-69932f9195de" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/大目标1000/501-600/$532数组中的kdiff数对.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/超大目标5000/1001-1500/$1089复写零.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,9 +49,16 @@
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.$532数组中的kdiff数对">
+  <component name="RunManager" selected="Application.$1089复写零">
     <configuration name="$1051高度检查器" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="$1051高度检查器" />
+      <module name="leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="$1089复写零" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="$1089复写零" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -78,33 +85,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="$926字符串翻转到单调递增" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="$926字符串翻转到单调递增" />
-      <module name="leetcode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.$1089复写零" />
         <item itemvalue="Application.$532数组中的kdiff数对" />
         <item itemvalue="Application.$719找出第k小的数对距离" />
         <item itemvalue="Application.$498对角线遍历" />
         <item itemvalue="Application.$1051高度检查器" />
-        <item itemvalue="Application.$926字符串翻转到单调递增" />
       </list>
     </recent_temporary>
   </component>
@@ -238,7 +236,8 @@
       <workItem from="1655185109480" duration="956000" />
       <workItem from="1655194066008" duration="7000" />
       <workItem from="1655254914714" duration="2491000" />
-      <workItem from="1655340158858" duration="1900000" />
+      <workItem from="1655340158858" duration="2114000" />
+      <workItem from="1655427364436" duration="1247000" />
     </task>
     <servers />
   </component>
