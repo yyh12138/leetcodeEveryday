@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7998fa7-d89f-433c-b08f-69932f9195de" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/剑指Offer2/1-500/$29排序的循环链表.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/大目标1000/501-600/$508出现次数最多的子树元素和.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +49,7 @@
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.$29排序的循环链表">
+  <component name="RunManager" selected="Application.$508出现次数最多的子树元素和">
     <configuration name="$1089复写零" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="$1089复写零" />
       <module name="leetcode" />
@@ -64,8 +64,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="$498对角线遍历" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="$498对角线遍历" />
+    <configuration name="$508出现次数最多的子树元素和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="$508出现次数最多的子树元素和" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -85,26 +85,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.$508出现次数最多的子树元素和" />
         <item itemvalue="Application.$29排序的循环链表" />
         <item itemvalue="Application.$1089复写零" />
         <item itemvalue="Application.$532数组中的kdiff数对" />
         <item itemvalue="Application.$719找出第k小的数对距离" />
-        <item itemvalue="Application.$498对角线遍历" />
       </list>
     </recent_temporary>
   </component>
@@ -240,7 +238,8 @@
       <workItem from="1655254914714" duration="2491000" />
       <workItem from="1655340158858" duration="2114000" />
       <workItem from="1655427364436" duration="1490000" />
-      <workItem from="1655512977717" duration="3870000" />
+      <workItem from="1655512977717" duration="3967000" />
+      <workItem from="1655631731869" duration="5239000" />
     </task>
     <servers />
   </component>
@@ -277,16 +276,11 @@
           <line>100</line>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/剑指Offer2/1-500/$29排序的循环链表.java</url>
-          <line>48</line>
-          <option name="timeStamp" value="15" />
-        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
-        <watch expression="cur" language="JAVA" />
+        <watch expression="map" language="JAVA" />
       </configuration>
     </watches-manager>
   </component>
