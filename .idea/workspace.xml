@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7998fa7-d89f-433c-b08f-69932f9195de" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/大目标1000/501-600/$508出现次数最多的子树元素和.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/大目标1000/701-800/$715range模块.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/超大目标5000/1001-1500/$1108IP地址无效化.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/$508出现次数最多的子树元素和.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/$508出现次数最多的子树元素和.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/大目标1000/501-600/$508出现次数最多的子树元素和.java" beforeDir="false" afterPath="$PROJECT_DIR$/大目标1000/501-600/$508出现次数最多的子树元素和.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,9 +52,16 @@
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.$508出现次数最多的子树元素和">
+  <component name="RunManager" selected="Application.$1108IP地址无效化">
     <configuration name="$1089复写零" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="$1089复写零" />
+      <module name="leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="$1108IP地址无效化" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="$1108IP地址无效化" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -71,15 +81,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="$532数组中的kdiff数对" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="$532数组中的kdiff数对" />
-      <module name="leetcode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="$719找出第k小的数对距离" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="$719找出第k小的数对距离" />
+    <configuration name="$715range模块" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="$715range模块" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -98,11 +101,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.$1108IP地址无效化" />
+        <item itemvalue="Application.$715range模块" />
         <item itemvalue="Application.$508出现次数最多的子树元素和" />
         <item itemvalue="Application.$29排序的循环链表" />
         <item itemvalue="Application.$1089复写零" />
-        <item itemvalue="Application.$532数组中的kdiff数对" />
-        <item itemvalue="Application.$719找出第k小的数对距离" />
       </list>
     </recent_temporary>
   </component>
@@ -239,7 +242,9 @@
       <workItem from="1655340158858" duration="2114000" />
       <workItem from="1655427364436" duration="1490000" />
       <workItem from="1655512977717" duration="3967000" />
-      <workItem from="1655631731869" duration="5239000" />
+      <workItem from="1655631731869" duration="5367000" />
+      <workItem from="1655683858129" duration="2333000" />
+      <workItem from="1655772956146" duration="636000" />
     </task>
     <servers />
   </component>

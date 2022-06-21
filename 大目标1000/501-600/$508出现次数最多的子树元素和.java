@@ -17,8 +17,9 @@ public class $508出现次数最多的子树元素和 {
         //然后求出map中value最大值对应的Key
         List<Integer> res = new LinkedList<>();
         for(Integer i : map.keySet()){
-            if(map.get(i) == max)
+            if(map.get(i) == max) {
                 res.add(i);
+            }
         }
         int[] resArr = new int[res.size()];
         for(int i = 0;i < res.size();i++){
