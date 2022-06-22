@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7998fa7-d89f-433c-b08f-69932f9195de" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/大目标1000/701-800/$715range模块.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/超大目标5000/1001-1500/$1108IP地址无效化.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/$508出现次数最多的子树元素和.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/$508出现次数最多的子树元素和.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/大目标1000/501-600/$508出现次数最多的子树元素和.java" beforeDir="false" afterPath="$PROJECT_DIR$/大目标1000/501-600/$508出现次数最多的子树元素和.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/大目标1000/501-600/$513找树左下角值.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,14 +49,7 @@
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.$1108IP地址无效化">
-    <configuration name="$1089复写零" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="$1089复写零" />
-      <module name="leetcode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.$513找树左下角值">
     <configuration name="$1108IP地址无效化" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="$1108IP地址无效化" />
       <module name="leetcode" />
@@ -81,6 +71,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="$513找树左下角值" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="$513找树左下角值" />
+      <module name="leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="$715range模块" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="$715range模块" />
       <module name="leetcode" />
@@ -88,24 +85,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.$513找树左下角值" />
         <item itemvalue="Application.$1108IP地址无效化" />
         <item itemvalue="Application.$715range模块" />
         <item itemvalue="Application.$508出现次数最多的子树元素和" />
         <item itemvalue="Application.$29排序的循环链表" />
-        <item itemvalue="Application.$1089复写零" />
       </list>
     </recent_temporary>
   </component>
@@ -244,7 +243,8 @@
       <workItem from="1655512977717" duration="3967000" />
       <workItem from="1655631731869" duration="5367000" />
       <workItem from="1655683858129" duration="2333000" />
-      <workItem from="1655772956146" duration="636000" />
+      <workItem from="1655772956146" duration="2118000" />
+      <workItem from="1655857825746" duration="3549000" />
     </task>
     <servers />
   </component>
@@ -286,6 +286,7 @@
     <watches-manager>
       <configuration name="Application">
         <watch expression="map" language="JAVA" />
+        <watch expression="queue" />
       </configuration>
     </watches-manager>
   </component>
