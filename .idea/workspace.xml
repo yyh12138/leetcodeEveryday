@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7998fa7-d89f-433c-b08f-69932f9195de" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/大目标1000/501-600/$513找树左下角值.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/大目标1000/501-600/$515每个树行中找最大值.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,16 +49,9 @@
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.$513找树左下角值">
+  <component name="RunManager" selected="Application.$515每个树行中找最大值">
     <configuration name="$1108IP地址无效化" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="$1108IP地址无效化" />
-      <module name="leetcode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="$29排序的循环链表" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="$29排序的循环链表" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -78,6 +71,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="$515每个树行中找最大值" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="$515每个树行中找最大值" />
+      <module name="leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="$715range模块" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="$715range模块" />
       <module name="leetcode" />
@@ -85,26 +85,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.$515每个树行中找最大值" />
         <item itemvalue="Application.$513找树左下角值" />
         <item itemvalue="Application.$1108IP地址无效化" />
         <item itemvalue="Application.$715range模块" />
         <item itemvalue="Application.$508出现次数最多的子树元素和" />
-        <item itemvalue="Application.$29排序的循环链表" />
       </list>
     </recent_temporary>
   </component>
@@ -244,7 +242,9 @@
       <workItem from="1655631731869" duration="5367000" />
       <workItem from="1655683858129" duration="2333000" />
       <workItem from="1655772956146" duration="2118000" />
-      <workItem from="1655857825746" duration="3549000" />
+      <workItem from="1655857825746" duration="3592000" />
+      <workItem from="1655946519391" duration="130000" />
+      <workItem from="1656031453816" duration="1437000" />
     </task>
     <servers />
   </component>
