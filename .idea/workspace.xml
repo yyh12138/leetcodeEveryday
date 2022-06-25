@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7998fa7-d89f-433c-b08f-69932f9195de" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/大目标1000/501-600/$515每个树行中找最大值.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/中目标500/201-300/$256粉刷房子.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +49,7 @@
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.$515每个树行中找最大值">
+  <component name="RunManager" selected="Application.$256粉刷房子">
     <configuration name="$1108IP地址无效化" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="$1108IP地址无效化" />
       <module name="leetcode" />
@@ -57,8 +57,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="$508出现次数最多的子树元素和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="$508出现次数最多的子树元素和" />
+    <configuration name="$256粉刷房子" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="$256粉刷房子" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -85,24 +85,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.$256粉刷房子" />
         <item itemvalue="Application.$515每个树行中找最大值" />
         <item itemvalue="Application.$513找树左下角值" />
         <item itemvalue="Application.$1108IP地址无效化" />
         <item itemvalue="Application.$715range模块" />
-        <item itemvalue="Application.$508出现次数最多的子树元素和" />
       </list>
     </recent_temporary>
   </component>
@@ -244,7 +246,8 @@
       <workItem from="1655772956146" duration="2118000" />
       <workItem from="1655857825746" duration="3592000" />
       <workItem from="1655946519391" duration="130000" />
-      <workItem from="1656031453816" duration="1437000" />
+      <workItem from="1656031453816" duration="2425000" />
+      <workItem from="1656114508661" duration="1860000" />
     </task>
     <servers />
   </component>
