@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7998fa7-d89f-433c-b08f-69932f9195de" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/大目标1000/501-600/$535TinyURL加密与解密.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/超大目标5000/1001-1500/$1175质数排列.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,16 +49,16 @@
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.$522最长特殊序列二">
-    <configuration name="$256粉刷房子" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="$256粉刷房子" />
+  <component name="RunManager" selected="Application.$1175质数排列">
+    <configuration name="$1175质数排列" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="$1175质数排列" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="$513找树左下角值" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="$513找树左下角值" />
+    <configuration name="$256粉刷房子" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="$256粉刷房子" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -85,24 +85,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.$1175质数排列" />
         <item itemvalue="Application.$522最长特殊序列二" />
         <item itemvalue="Application.$710黑名单中的随机数" />
         <item itemvalue="Application.$256粉刷房子" />
         <item itemvalue="Application.$515每个树行中找最大值" />
-        <item itemvalue="Application.$513找树左下角值" />
       </list>
     </recent_temporary>
   </component>
@@ -250,7 +252,8 @@
       <workItem from="1656230395673" duration="237000" />
       <workItem from="1656289160608" duration="3963000" />
       <workItem from="1656383424362" duration="1153000" />
-      <workItem from="1656461281767" duration="1378000" />
+      <workItem from="1656461281767" duration="1690000" />
+      <workItem from="1656549274240" duration="909000" />
     </task>
     <servers />
   </component>
