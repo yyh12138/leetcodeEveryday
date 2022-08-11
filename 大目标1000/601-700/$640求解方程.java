@@ -17,31 +17,54 @@ public class $640求解方程 {
     List<String> list = new ArrayList<>();
 
     public String solveEquation(String equation) {
-        String output = "";
-        int result, numOfX = 0;
+        String output = "x=";
+        int res = 0;
+        int numOfDigit = 0, numOfX = 0;
         list = normalize(equation);
+        // list = [+2x, +5, -3, +x, -6, -x, +2]
         for (int i = 0; i < list.size(); i++) {
             String str = list.get(i);
-
+            if (str.length()==0) {
+                continue;
+            }
+            char type = str.charAt(str.length()-1);
+            if (Character.isDigit(type)) {
+                numOfDigit += Integer.parseInt(str);
+            }else if (Character.isLetter(type)) {
+                String t = str.split("x")[0];
+                if (t.length()==1) {
+                    t += "1";
+                }
+                numOfX += Integer.parseInt(t);
+            }
         }
-
-
-        return output;
+        if (numOfX==0) {
+            if(numOfDigit==0) {
+                return "Infinite solutions";
+            }else {
+                return "No solution";
+            }
+        }
+        res = numOfDigit*(-1) / numOfX;
+        return output+res;
     }
 
     private List<String> normalize(String equation) {
         List<String> res = new ArrayList<>();
         List<String> res2 = new ArrayList<>();
-        // [2x, +5, -3, +x, -6, -x, +2]
+
         String[] split = equation.split("=");
         String str1 = split[0], str2 = split[1];
+        if (str1.charAt(0)!='-') {
+            str1 = "+" + str1;
+        }
+        if (str2.charAt(0)!='-') {
+            str2 = '+' + str2;
+        }
         String tmp = "";
         for (int i = 0; i < str1.length(); i++) {
             char c = str1.charAt(i);
             if (!Character.isLetterOrDigit(c)) { // 判断c为符号
-                if (res.size()==0 && Character.isLetterOrDigit(tmp.charAt(0))) {
-                    tmp = "+" + tmp;
-                }
                 res.add(tmp);
                 tmp = c+"";
             }else {
@@ -53,13 +76,6 @@ public class $640求解方程 {
         for (int i = 0; i < str2.length(); i++) {
             char c = str2.charAt(i);
             if (!Character.isLetterOrDigit(c)) { // 判断c为符号
-                if (i==0) {
-                    tmp += '+';
-                    continue;
-                }
-                if (res2.size()==0 && Character.isLetterOrDigit(tmp.charAt(0))) {
-                    tmp = "-" + tmp;
-                }
                 res2.add(tmp);
                 if (c=='-') {
                     tmp = "+";
@@ -76,6 +92,6 @@ public class $640求解方程 {
     }
 
     public static void main(String[] args) {
-        System.out.println(new $640求解方程().solveEquation("2x+5-3+x=6+x-2"));
+        System.out.println(new $640求解方程().solveEquation("x=x-2"));
     }
 }

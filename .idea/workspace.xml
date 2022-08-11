@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7998fa7-d89f-433c-b08f-69932f9195de" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/大目标1000/601-700/$640求解方程.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/超大目标5000/1001-1500/$1417重新格式化字符串.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/$640求解方程.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/$640求解方程.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/大目标1000/601-700/$640求解方程.java" beforeDir="false" afterPath="$PROJECT_DIR$/大目标1000/601-700/$640求解方程.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +50,7 @@
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.$1417重新格式化字符串">
+  <component name="RunManager" selected="Application.$640求解方程">
     <configuration name="$1175质数排列" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="$1175质数排列" />
       <module name="leetcode" />
@@ -99,8 +99,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.$1417重新格式化字符串" />
         <item itemvalue="Application.$640求解方程" />
+        <item itemvalue="Application.$1417重新格式化字符串" />
         <item itemvalue="Application.$1200最小绝对差" />
         <item itemvalue="Application.$241为运算表达式设计优先级" />
         <item itemvalue="Application.$1175质数排列" />
@@ -257,7 +257,7 @@
       <workItem from="1656745453347" duration="1431000" />
       <workItem from="1656891156126" duration="1287000" />
       <workItem from="1660099068437" duration="3847000" />
-      <workItem from="1660181207489" duration="1123000" />
+      <workItem from="1660181207489" duration="5278000" />
     </task>
     <servers />
   </component>
@@ -293,6 +293,11 @@
           <url>file://$PROJECT_DIR$/大目标1000/601-700/$699掉落方块.java</url>
           <line>100</line>
           <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/大目标1000/601-700/$640求解方程.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="21" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
