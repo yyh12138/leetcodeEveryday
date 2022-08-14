@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7998fa7-d89f-433c-b08f-69932f9195de" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/大目标1000/701-800/$768最多能完成排序的块二.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/超大目标5000/1001-1500/$1282用户分组.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/超大目标5000/1001-1500/$1422分割字符串的最大得分.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/大目标1000/701-800/$768最多能完成排序的块二.java" beforeDir="false" afterPath="$PROJECT_DIR$/大目标1000/701-800/$768最多能完成排序的块二.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,14 +50,7 @@
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.$1282用户分组">
-    <configuration name="$1200最小绝对差" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="$1200最小绝对差" />
-      <module name="leetcode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.$1422分割字符串的最大得分">
     <configuration name="$1282用户分组" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="$1282用户分组" />
       <module name="leetcode" />
@@ -67,6 +60,13 @@
     </configuration>
     <configuration name="$1417重新格式化字符串" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="$1417重新格式化字符串" />
+      <module name="leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="$1422分割字符串的最大得分" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="$1422分割字符串的最大得分" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -86,26 +86,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.$1422分割字符串的最大得分" />
         <item itemvalue="Application.$1282用户分组" />
         <item itemvalue="Application.$231幂运算" />
         <item itemvalue="Application.$640求解方程" />
         <item itemvalue="Application.$1417重新格式化字符串" />
-        <item itemvalue="Application.$1200最小绝对差" />
       </list>
     </recent_temporary>
   </component>
@@ -262,7 +260,9 @@
       <workItem from="1660181207489" duration="5278000" />
       <workItem from="1660210356000" duration="2324000" />
       <workItem from="1660267751208" duration="2984000" />
-      <workItem from="1660391218846" duration="955000" />
+      <workItem from="1660391218846" duration="1803000" />
+      <workItem from="1660396444285" duration="14000" />
+      <workItem from="1660441235360" duration="1126000" />
     </task>
     <servers />
   </component>

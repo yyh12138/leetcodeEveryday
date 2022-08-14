@@ -9,6 +9,14 @@ import java.util.Arrays;
  */
 public class $768最多能完成排序的块二 {
 
+    /**
+     * 分段排序和总的排序后的结果一样，那么同样的下标位置，右边最小值不小于左边最大值，寻找这样的分割点的数量
+     *     leftMax[i] 表示 arr[0] ~ arr[i] 的最大值
+     *     rightMin[i] 表示 arr[i] ~ arr[n-1] 的最小值
+     * 对于1~(n-1)的每一个i，只要 leftMax[i-1] <= rightMin[i] 那么就可以在 i-1 和 i 之间切断。
+     * @param arr
+     * @return
+     */
     public int maxChunksToSorted(int[] arr) {
         int[] cln = arr.clone();
         Arrays.sort(cln);
