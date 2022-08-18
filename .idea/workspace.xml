@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7998fa7-d89f-433c-b08f-69932f9195de" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/超大目标5000/1001-1500/$1302层数最深叶子节点的和.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/超大目标5000/1001-1500/$1224最大相等频率.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,9 +49,9 @@
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.$1302层数最深叶子节点的和">
-    <configuration name="$1282用户分组" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="$1282用户分组" />
+  <component name="RunManager" selected="Application.$1224最大相等频率">
+    <configuration name="$1224最大相等频率" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="$1224最大相等频率" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -85,26 +85,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.$1224最大相等频率" />
         <item itemvalue="Application.$1302层数最深叶子节点的和" />
         <item itemvalue="Application.$1656设计有序流" />
         <item itemvalue="Application.$641设计循环双端队列" />
         <item itemvalue="Application.$1422分割字符串的最大得分" />
-        <item itemvalue="Application.$1282用户分组" />
       </list>
     </recent_temporary>
   </component>
@@ -266,7 +264,9 @@
       <workItem from="1660441235360" duration="1637000" />
       <workItem from="1660525803134" duration="1943000" />
       <workItem from="1660616598116" duration="3107000" />
-      <workItem from="1660720790954" duration="2144000" />
+      <workItem from="1660720790954" duration="2448000" />
+      <workItem from="1660793027713" duration="1392000" />
+      <workItem from="1660807171315" duration="2366000" />
     </task>
     <servers />
   </component>
@@ -309,24 +309,24 @@
           <option name="timeStamp" value="21" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/超大目标5000/1001-1500/$1302层数最深叶子节点的和.java</url>
-          <line>34</line>
-          <option name="timeStamp" value="25" />
+          <url>file://$PROJECT_DIR$/超大目标5000/1001-1500/$1224最大相等频率.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="22" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/超大目标5000/1001-1500/$1302层数最深叶子节点的和.java</url>
-          <line>27</line>
-          <option name="timeStamp" value="31" />
+          <url>file://$PROJECT_DIR$/超大目标5000/1001-1500/$1224最大相等频率.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="23" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/超大目标5000/1001-1500/$1302层数最深叶子节点的和.java</url>
-          <line>19</line>
-          <option name="timeStamp" value="32" />
+          <url>file://$PROJECT_DIR$/超大目标5000/1001-1500/$1224最大相等频率.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="24" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/超大目标5000/1001-1500/$1302层数最深叶子节点的和.java</url>
-          <line>23</line>
-          <option name="timeStamp" value="33" />
+          <url>file://$PROJECT_DIR$/超大目标5000/1001-1500/$1224最大相等频率.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="27" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
