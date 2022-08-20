@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7998fa7-d89f-433c-b08f-69932f9195de" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/超大目标5000/1001-1500/$1450在既定时间做作业的学生人数.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/$1224最大相等频率.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/$1224最大相等频率.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/超大目标5000/1001-1500/$1224最大相等频率.java" beforeDir="false" afterPath="$PROJECT_DIR$/超大目标5000/1001-1500/$1224最大相等频率.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/大目标1000/601-700/$654最大二叉树.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/小目标100/91-100/$100相同的树.java" beforeDir="false" afterPath="$PROJECT_DIR$/小目标100/91-100/$100相同的树.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +50,7 @@
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.$1450在既定时间做作业的学生人数">
+  <component name="RunManager" selected="Application.$654最大二叉树">
     <configuration name="$1224最大相等频率" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="$1224最大相等频率" />
       <module name="leetcode" />
@@ -80,31 +79,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="$641设计循环双端队列" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="$641设计循环双端队列" />
+    <configuration name="$654最大二叉树" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="$654最大二叉树" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.$654最大二叉树" />
         <item itemvalue="Application.$1450在既定时间做作业的学生人数" />
         <item itemvalue="Application.$1224最大相等频率" />
         <item itemvalue="Application.$1302层数最深叶子节点的和" />
         <item itemvalue="Application.$1656设计有序流" />
-        <item itemvalue="Application.$641设计循环双端队列" />
       </list>
     </recent_temporary>
   </component>
@@ -270,7 +271,8 @@
       <workItem from="1660793027713" duration="1392000" />
       <workItem from="1660807171315" duration="2723000" />
       <workItem from="1660811541035" duration="220000" />
-      <workItem from="1660872288406" duration="504000" />
+      <workItem from="1660872288406" duration="704000" />
+      <workItem from="1660965055965" duration="3853000" />
     </task>
     <servers />
   </component>

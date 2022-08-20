@@ -16,6 +16,19 @@ class TreeNode {
          this.left = left;
          this.right = right;
      }
+     public void print() {
+         List<Integer> list = new ArrayList<>();
+         inorder(this, list);
+         System.out.println(list);
+     }
+     private void inorder(TreeNode root, List<Integer> res) {
+        if (root == null) {
+            return;
+        }
+        inorder(root.left, res);
+        res.add(root.val);
+        inorder(root.right, res);
+     }
 }
 
 
