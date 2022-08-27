@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7998fa7-d89f-433c-b08f-69932f9195de" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/超大目标5000/1001-1500/$1464数组中两元素的最大乘积.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/大目标1000/601-700/$662二叉树最大宽度.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,14 +49,7 @@
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.$1464数组中两元素的最大乘积">
-    <configuration name="$1455检查单词是否为句中其他单词前缀" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="$1455检查单词是否为句中其他单词前缀" />
-      <module name="leetcode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.$662二叉树最大宽度">
     <configuration name="$1460翻转子数组使两个数组相等" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="$1460翻转子数组使两个数组相等" />
       <module name="leetcode" />
@@ -85,24 +78,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration name="$662二叉树最大宽度" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="$662二叉树最大宽度" />
+      <module name="leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.$662二叉树最大宽度" />
         <item itemvalue="Application.$1464数组中两元素的最大乘积" />
         <item itemvalue="Application.$658找到k个最接近的元素" />
         <item itemvalue="Application.$1460翻转子数组使两个数组相等" />
         <item itemvalue="Application.$655输出二叉树" />
-        <item itemvalue="Application.$1455检查单词是否为句中其他单词前缀" />
       </list>
     </recent_temporary>
   </component>
@@ -274,7 +276,8 @@
       <workItem from="1661130103445" duration="5277000" />
       <workItem from="1661303389998" duration="1336000" />
       <workItem from="1661391474900" duration="3193000" />
-      <workItem from="1661482546933" duration="104000" />
+      <workItem from="1661482546933" duration="848000" />
+      <workItem from="1661564493896" duration="3119000" />
     </task>
     <servers />
   </component>
