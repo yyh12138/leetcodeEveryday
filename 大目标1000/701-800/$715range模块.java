@@ -27,7 +27,7 @@ public class $715range模块 {
 }
 
 /**
- * 设计一个数据结构来跟踪表示为 半开区间 的范围并查询它们。半开区间 [left, right) 表示所有 left <= x < right 的实数 x 。
+ * 设计一个数据结构来跟踪表示为半开区间的范围并查询它们。半开区间[left, right)表示所有left<=x<right的实数x
  */
 class RangeModule {
     // 线段树的结点
