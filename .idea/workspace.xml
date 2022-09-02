@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7998fa7-d89f-433c-b08f-69932f9195de" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/超大目标5000/1001-1500/$1475商品折扣后的最终价格.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/大目标1000/601-700/$687最长同值路径.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +49,7 @@
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.$1475商品折扣后的最终价格">
+  <component name="RunManager" selected="Application.$687最长同值路径">
     <configuration name="$1470重新排列数组" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="$1470重新排列数组" />
       <module name="leetcode" />
@@ -64,8 +64,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="$715range模块" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="$715range模块" />
+    <configuration name="$687最长同值路径" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="$687最长同值路径" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -85,26 +85,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.$687最长同值路径" />
         <item itemvalue="Application.$1475商品折扣后的最终价格" />
         <item itemvalue="Application.$946验证栈序列" />
         <item itemvalue="Application.$998最大二叉树二" />
         <item itemvalue="Application.$1470重新排列数组" />
-        <item itemvalue="Application.$715range模块" />
       </list>
     </recent_temporary>
   </component>
@@ -283,7 +281,8 @@
       <workItem from="1661739604351" duration="1151000" />
       <workItem from="1661820312981" duration="825000" />
       <workItem from="1661910392424" duration="1453000" />
-      <workItem from="1661997675559" duration="351000" />
+      <workItem from="1661997675559" duration="462000" />
+      <workItem from="1662080093605" duration="1429000" />
     </task>
     <servers />
   </component>
