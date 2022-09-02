@@ -17,7 +17,9 @@ public class $687最长同值路径 {
     }
 
     private int getMaxL(TreeNode r, int val) {
-        if(r == null) return 0;
+        if(r == null) {
+            return 0;
+        }
         int left = getMaxL(r.left, r.val);
         int right = getMaxL(r.right, r.val);
         maxL = Math.max(maxL, left+right); // 路径长度为节点数减1所以此处不加1
