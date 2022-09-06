@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7998fa7-d89f-433c-b08f-69932f9195de" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/大目标1000/601-700/$652寻找重复子树.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/大目标1000/801-900/$828统计子串中唯一字符.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,14 +49,7 @@
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.$652寻找重复子树">
-    <configuration name="$1475商品折扣后的最终价格" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="$1475商品折扣后的最终价格" />
-      <module name="leetcode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.$828统计子串中唯一字符">
     <configuration name="$1582二进制矩阵中的特殊位置" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="$1582二进制矩阵中的特殊位置" />
       <module name="leetcode" />
@@ -85,26 +78,31 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration name="$828统计子串中唯一字符" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="$828统计子串中唯一字符" />
+      <module name="leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.$828统计子串中唯一字符" />
         <item itemvalue="Application.$652寻找重复子树" />
         <item itemvalue="Application.$1582二进制矩阵中的特殊位置" />
         <item itemvalue="Application.$646最长数对链" />
         <item itemvalue="Application.$687最长同值路径" />
-        <item itemvalue="Application.$1475商品折扣后的最终价格" />
       </list>
     </recent_temporary>
   </component>
@@ -287,7 +285,8 @@
       <workItem from="1662080093605" duration="1614000" />
       <workItem from="1662170086258" duration="1814000" />
       <workItem from="1662254131092" duration="698000" />
-      <workItem from="1662339422218" duration="1333000" />
+      <workItem from="1662339422218" duration="1465000" />
+      <workItem from="1662426853339" duration="1351000" />
     </task>
     <servers />
   </component>
@@ -334,12 +333,12 @@
           <line>22</line>
           <option name="timeStamp" value="22" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/大目标1000/601-700/$652寻找重复子树.java</url>
-          <line>44</line>
-          <option name="timeStamp" value="23" />
-        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="seen" language="JAVA" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
