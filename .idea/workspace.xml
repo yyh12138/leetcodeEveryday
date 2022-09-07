@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7998fa7-d89f-433c-b08f-69932f9195de" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/大目标1000/801-900/$828统计子串中唯一字符.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/超大目标5000/1501-2000/$1592重新排列单词间空格.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,9 +49,16 @@
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.$828统计子串中唯一字符">
+  <component name="RunManager" selected="Application.$1592重新排列单词间空格">
     <configuration name="$1582二进制矩阵中的特殊位置" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="$1582二进制矩阵中的特殊位置" />
+      <module name="leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="$1592重新排列单词间空格" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="$1592重新排列单词间空格" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -71,13 +78,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="$687最长同值路径" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="$687最长同值路径" />
-      <module name="leetcode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="$828统计子串中唯一字符" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="$828统计子串中唯一字符" />
       <module name="leetcode" />
@@ -85,24 +85,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.$1592重新排列单词间空格" />
         <item itemvalue="Application.$828统计子串中唯一字符" />
         <item itemvalue="Application.$652寻找重复子树" />
         <item itemvalue="Application.$1582二进制矩阵中的特殊位置" />
         <item itemvalue="Application.$646最长数对链" />
-        <item itemvalue="Application.$687最长同值路径" />
       </list>
     </recent_temporary>
   </component>
@@ -286,7 +288,8 @@
       <workItem from="1662170086258" duration="1814000" />
       <workItem from="1662254131092" duration="698000" />
       <workItem from="1662339422218" duration="1465000" />
-      <workItem from="1662426853339" duration="1351000" />
+      <workItem from="1662426853339" duration="2079000" />
+      <workItem from="1662511996495" duration="1768000" />
     </task>
     <servers />
   </component>
@@ -335,10 +338,5 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-    <watches-manager>
-      <configuration name="Application">
-        <watch expression="seen" language="JAVA" />
-      </configuration>
-    </watches-manager>
   </component>
 </project>
