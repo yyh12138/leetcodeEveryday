@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7998fa7-d89f-433c-b08f-69932f9195de" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/超大目标5000/1501-2000/$1598文件夹操作日志收集器.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/大目标1000/601-700/$669修剪二叉搜索树.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,15 +85,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -291,7 +289,8 @@
       <workItem from="1662426853339" duration="2079000" />
       <workItem from="1662511996495" duration="2026000" />
       <workItem from="1662599199352" duration="2527000" />
-      <workItem from="1662683643838" duration="2948000" />
+      <workItem from="1662683643838" duration="2997000" />
+      <workItem from="1662812365027" duration="462000" />
     </task>
     <servers />
   </component>
