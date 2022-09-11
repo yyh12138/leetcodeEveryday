@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7998fa7-d89f-433c-b08f-69932f9195de" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/大目标1000/601-700/$669修剪二叉搜索树.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/大目标1000/801-900/$857雇佣k名工人的最低成本.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +49,7 @@
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.$1592重新排列单词间空格">
+  <component name="RunManager" selected="Application.$857雇佣k名工人的最低成本">
     <configuration name="$1582二进制矩阵中的特殊位置" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="$1582二进制矩阵中的特殊位置" />
       <module name="leetcode" />
@@ -59,13 +59,6 @@
     </configuration>
     <configuration name="$1592重新排列单词间空格" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="$1592重新排列单词间空格" />
-      <module name="leetcode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="$646最长数对链" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="$646最长数对链" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -85,24 +78,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration name="$857雇佣k名工人的最低成本" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="$857雇佣k名工人的最低成本" />
+      <module name="leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.$857雇佣k名工人的最低成本" />
         <item itemvalue="Application.$1592重新排列单词间空格" />
         <item itemvalue="Application.$828统计子串中唯一字符" />
         <item itemvalue="Application.$652寻找重复子树" />
         <item itemvalue="Application.$1582二进制矩阵中的特殊位置" />
-        <item itemvalue="Application.$646最长数对链" />
       </list>
     </recent_temporary>
   </component>
@@ -290,7 +292,8 @@
       <workItem from="1662511996495" duration="2026000" />
       <workItem from="1662599199352" duration="2527000" />
       <workItem from="1662683643838" duration="2997000" />
-      <workItem from="1662812365027" duration="462000" />
+      <workItem from="1662812365027" duration="764000" />
+      <workItem from="1662881098841" duration="3409000" />
     </task>
     <servers />
   </component>
