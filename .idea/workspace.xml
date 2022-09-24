@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7998fa7-d89f-433c-b08f-69932f9195de" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/大目标1000/701-800/$707设计链表.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/$698划分为K个相等的子集.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/$698划分为K个相等的子集.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/超大目标5000/1501-2000/$1652拆炸弹.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +49,7 @@
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.$707设计链表">
+  <component name="RunManager" selected="Application.$1652拆炸弹">
     <configuration name="$1636按频率将数组升序排序" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="$1636按频率将数组升序排序" />
       <module name="leetcode" />
@@ -60,6 +59,13 @@
     </configuration>
     <configuration name="$1640能否连接成数组" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="$1640能否连接成数组" />
+      <module name="leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="$1652拆炸弹" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="$1652拆炸弹" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -79,33 +85,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="$827最大人工岛" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="$827最大人工岛" />
-      <module name="leetcode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.$1652拆炸弹" />
         <item itemvalue="Application.$707设计链表" />
         <item itemvalue="Application.$1640能否连接成数组" />
         <item itemvalue="Application.$698划分为K个相等的子集" />
         <item itemvalue="Application.$1636按频率将数组升序排序" />
-        <item itemvalue="Application.$827最大人工岛" />
       </list>
     </recent_temporary>
   </component>
@@ -309,7 +306,8 @@
       <workItem from="1663634327156" duration="2852000" />
       <workItem from="1663757341496" duration="1198000" />
       <workItem from="1663806513394" duration="1067000" />
-      <workItem from="1663893782941" duration="3737000" />
+      <workItem from="1663893782941" duration="4114000" />
+      <workItem from="1663982670228" duration="1364000" />
     </task>
     <servers />
   </component>
@@ -395,6 +393,11 @@
           <url>file://$PROJECT_DIR$/大目标1000/701-800/$707设计链表.java</url>
           <line>26</line>
           <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/超大目标5000/1501-2000/$1652拆炸弹.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="36" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
