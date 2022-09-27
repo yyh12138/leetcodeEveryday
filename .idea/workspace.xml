@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7998fa7-d89f-433c-b08f-69932f9195de" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/面试题/15-20/$1719消失的两个数字.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面试题/01-05/$0102判定是否互为字符重排.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,9 +49,9 @@
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.$1719消失的两个数字">
-    <configuration name="$1640能否连接成数组" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="$1640能否连接成数组" />
+  <component name="RunManager" selected="Application.$0102判定是否互为字符重排">
+    <configuration name="$0102判定是否互为字符重排" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="$0102判定是否互为字符重排" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -85,24 +85,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.$0102判定是否互为字符重排" />
         <item itemvalue="Application.$1719消失的两个数字" />
         <item itemvalue="Application.$788旋转数字" />
         <item itemvalue="Application.$1652拆炸弹" />
         <item itemvalue="Application.$707设计链表" />
-        <item itemvalue="Application.$1640能否连接成数组" />
       </list>
     </recent_temporary>
   </component>
@@ -310,6 +312,7 @@
       <workItem from="1663982670228" duration="1463000" />
       <workItem from="1664066953090" duration="2566000" />
       <workItem from="1664154087842" duration="2445000" />
+      <workItem from="1664237706325" duration="896000" />
     </task>
     <servers />
   </component>
