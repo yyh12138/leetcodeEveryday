@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7998fa7-d89f-433c-b08f-69932f9195de" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/面试题/15-20/$1709第k个数.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/面试题/15-20/$1709第k个数.java" beforeDir="false" afterPath="$PROJECT_DIR$/面试题/15-20/$1709第k个数.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -311,7 +311,7 @@
       <workItem from="1664066953090" duration="2566000" />
       <workItem from="1664154087842" duration="2445000" />
       <workItem from="1664237706325" duration="962000" />
-      <workItem from="1664329376013" duration="1001000" />
+      <workItem from="1664329376013" duration="1623000" />
     </task>
     <servers />
   </component>
@@ -397,11 +397,6 @@
           <url>file://$PROJECT_DIR$/大目标1000/701-800/$707设计链表.java</url>
           <line>26</line>
           <option name="timeStamp" value="34" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/面试题/15-20/$1709第k个数.java</url>
-          <line>23</line>
-          <option name="timeStamp" value="41" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
