@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7998fa7-d89f-433c-b08f-69932f9195de" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/面试题/01-05/$0109字符串轮转.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面试题/01-05/$0108零矩阵.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +49,7 @@
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.$1709第k个数">
+  <component name="RunManager" selected="Application.$0108零矩阵">
     <configuration name="$0102判定是否互为字符重排" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="$0102判定是否互为字符重排" />
       <module name="leetcode" />
@@ -57,8 +57,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="$1652拆炸弹" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="$1652拆炸弹" />
+    <configuration name="$0108零矩阵" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="$0108零矩阵" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -85,26 +85,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.$0108零矩阵" />
         <item itemvalue="Application.$1709第k个数" />
         <item itemvalue="Application.$0102判定是否互为字符重排" />
         <item itemvalue="Application.$1719消失的两个数字" />
         <item itemvalue="Application.$788旋转数字" />
-        <item itemvalue="Application.$1652拆炸弹" />
       </list>
     </recent_temporary>
   </component>
@@ -314,7 +312,8 @@
       <workItem from="1664154087842" duration="2445000" />
       <workItem from="1664237706325" duration="962000" />
       <workItem from="1664329376013" duration="1623000" />
-      <workItem from="1664413639117" duration="886000" />
+      <workItem from="1664413639117" duration="1006000" />
+      <workItem from="1664499067030" duration="487000" />
     </task>
     <servers />
   </component>
