@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7998fa7-d89f-433c-b08f-69932f9195de" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/大目标1000/701-800/$777在LR字符串中交换相邻字符.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/超大目标5000/1501-2000/$1784检查二进制字符串字段.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,14 +49,7 @@
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.$777在LR字符串中交换相邻字符">
-    <configuration name="$0102判定是否互为字符重排" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="$0102判定是否互为字符重排" />
-      <module name="leetcode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.$1784检查二进制字符串字段">
     <configuration name="$0108零矩阵" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="$0108零矩阵" />
       <module name="leetcode" />
@@ -78,6 +71,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="$1784检查二进制字符串字段" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="$1784检查二进制字符串字段" />
+      <module name="leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="$777在LR字符串中交换相邻字符" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="$777在LR字符串中交换相邻字符" />
       <module name="leetcode" />
@@ -85,24 +85,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.$1784检查二进制字符串字段" />
         <item itemvalue="Application.$777在LR字符串中交换相邻字符" />
         <item itemvalue="Application.$1694重新格式化电话号码" />
         <item itemvalue="Application.$0108零矩阵" />
         <item itemvalue="Application.$1709第k个数" />
-        <item itemvalue="Application.$0102判定是否互为字符重排" />
       </list>
     </recent_temporary>
   </component>
@@ -315,7 +317,8 @@
       <workItem from="1664413639117" duration="1006000" />
       <workItem from="1664499067030" duration="913000" />
       <workItem from="1664588158671" duration="1686000" />
-      <workItem from="1664673686478" duration="1465000" />
+      <workItem from="1664673686478" duration="1872000" />
+      <workItem from="1664761651480" duration="864000" />
     </task>
     <servers />
   </component>
