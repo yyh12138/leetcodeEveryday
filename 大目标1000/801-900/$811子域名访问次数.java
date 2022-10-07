@@ -16,24 +16,24 @@ import java.util.Map;
 
 public class $811子域名访问次数 {
     public List<String> subdomainVisits(String[] cpdomains) {
-        Map<String, Integer> map=new HashMap<>();
+        Map<String, Integer> map = new HashMap<>();
         for(int i=0; i<cpdomains.length; i++){
-            String[] s =cpdomains[i].split(" ");
+            String[] s = cpdomains[i].split(" ");
             int a = Integer.parseInt(s[0]);
             inc(map, s[1], a);
-            for(int j=0;j<s[1].length();j++) {
+            for(int j=0; j<s[1].length(); j++) {
                 if(s[1].charAt(j)=='.') {
                     inc(map, s[1].substring(j+1), a);
                 }
             }
         }
-        List<String> ans=new ArrayList<>();
+        List<String> ans = new ArrayList<>();
         for(String s: map.keySet()) {
             ans.add(map.get(s)+" "+s);
         }
         return ans;
     }
-    void inc(Map<String,Integer> map,String s,int a){
+    void inc(Map<String,Integer> map, String s, int a) {
         map.put(s,map.getOrDefault(s,0)+a);
     }
 
