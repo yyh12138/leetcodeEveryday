@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7998fa7-d89f-433c-b08f-69932f9195de" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/超大目标5000/1501-2000/$1800最大升序子数组和.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/大目标1000/801-900/$811子域名访问次数.java" beforeDir="false" afterPath="$PROJECT_DIR$/大目标1000/801-900/$811子域名访问次数.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/大目标1000/801-900/$870优势洗牌.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,14 +49,7 @@
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.$1800最大升序子数组和">
-    <configuration name="$1694重新格式化电话号码" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="$1694重新格式化电话号码" />
-      <module name="leetcode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.$870优势洗牌">
     <configuration name="$1784检查二进制字符串字段" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="$1784检查二进制字符串字段" />
       <module name="leetcode" />
@@ -79,6 +71,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="$870优势洗牌" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="$870优势洗牌" />
+      <module name="leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="$921使括号有效的最少添加" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="$921使括号有效的最少添加" />
       <module name="leetcode" />
@@ -86,24 +85,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.$870优势洗牌" />
         <item itemvalue="Application.$1800最大升序子数组和" />
         <item itemvalue="Application.$921使括号有效的最少添加" />
         <item itemvalue="Application.$1784检查二进制字符串字段" />
         <item itemvalue="Application.$777在LR字符串中交换相邻字符" />
-        <item itemvalue="Application.$1694重新格式化电话号码" />
       </list>
     </recent_temporary>
   </component>
@@ -320,7 +321,8 @@
       <workItem from="1664761651480" duration="1064000" />
       <workItem from="1664862659487" duration="1182000" />
       <workItem from="1664932859455" duration="2316000" />
-      <workItem from="1665107506535" duration="342000" />
+      <workItem from="1665107506535" duration="581000" />
+      <workItem from="1665190848976" duration="2287000" />
     </task>
     <servers />
   </component>
