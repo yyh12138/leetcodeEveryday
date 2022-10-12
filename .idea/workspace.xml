@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7998fa7-d89f-433c-b08f-69932f9195de" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/$870优势洗牌.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/$870优势洗牌.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/大目标1000/801-900/$817链表组件.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +49,7 @@
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.$1790仅执行一次字符串交换能否使两个字符串相等">
+  <component name="RunManager" selected="Application.$817链表组件">
     <configuration name="$1790仅执行一次字符串交换能否使两个字符串相等" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="$1790仅执行一次字符串交换能否使两个字符串相等" />
       <module name="leetcode" />
@@ -59,6 +59,13 @@
     </configuration>
     <configuration name="$1800最大升序子数组和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="$1800最大升序子数组和" />
+      <module name="leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="$817链表组件" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="$817链表组件" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -78,33 +85,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="$921使括号有效的最少添加" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="$921使括号有效的最少添加" />
-      <module name="leetcode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.$817链表组件" />
         <item itemvalue="Application.$1790仅执行一次字符串交换能否使两个字符串相等" />
         <item itemvalue="Application.$856括号分数" />
         <item itemvalue="Application.$870优势洗牌" />
         <item itemvalue="Application.$1800最大升序子数组和" />
-        <item itemvalue="Application.$921使括号有效的最少添加" />
       </list>
     </recent_temporary>
   </component>
@@ -325,6 +323,8 @@
       <workItem from="1665190848976" duration="2287000" />
       <workItem from="1665193592884" duration="8000" />
       <workItem from="1665275656192" duration="3171000" />
+      <workItem from="1665450949615" duration="856000" />
+      <workItem from="1665537890112" duration="2176000" />
     </task>
     <servers />
   </component>
