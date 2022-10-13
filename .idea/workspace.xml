@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7998fa7-d89f-433c-b08f-69932f9195de" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/大目标1000/801-900/$817链表组件.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/大目标1000/701-800/$769最多能完成排序的块.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +49,7 @@
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.$817链表组件">
+  <component name="RunManager" selected="Application.$769最多能完成排序的块">
     <configuration name="$1790仅执行一次字符串交换能否使两个字符串相等" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="$1790仅执行一次字符串交换能否使两个字符串相等" />
       <module name="leetcode" />
@@ -57,8 +57,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="$1800最大升序子数组和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="$1800最大升序子数组和" />
+    <configuration name="$769最多能完成排序的块" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="$769最多能完成排序的块" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -98,11 +98,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.$769最多能完成排序的块" />
         <item itemvalue="Application.$817链表组件" />
         <item itemvalue="Application.$1790仅执行一次字符串交换能否使两个字符串相等" />
         <item itemvalue="Application.$856括号分数" />
         <item itemvalue="Application.$870优势洗牌" />
-        <item itemvalue="Application.$1800最大升序子数组和" />
       </list>
     </recent_temporary>
   </component>
@@ -324,7 +324,9 @@
       <workItem from="1665193592884" duration="8000" />
       <workItem from="1665275656192" duration="3171000" />
       <workItem from="1665450949615" duration="856000" />
-      <workItem from="1665537890112" duration="2176000" />
+      <workItem from="1665537890112" duration="2727000" />
+      <workItem from="1665581084873" duration="31000" />
+      <workItem from="1665622748783" duration="1062000" />
     </task>
     <servers />
   </component>
