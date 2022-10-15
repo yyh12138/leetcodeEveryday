@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7998fa7-d89f-433c-b08f-69932f9195de" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/大目标1000/901-1000/$940不同的子序列二.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/超大目标5000/1001-1500/$1441用栈操作构建数组.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +49,14 @@
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.$940不同的子序列二">
+  <component name="RunManager" selected="Application.$1441用栈操作构建数组">
+    <configuration name="$1441用栈操作构建数组" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="$1441用栈操作构建数组" />
+      <module name="leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="$1790仅执行一次字符串交换能否使两个字符串相等" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="$1790仅执行一次字符串交换能否使两个字符串相等" />
       <module name="leetcode" />
@@ -71,13 +78,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="$856括号分数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="$856括号分数" />
-      <module name="leetcode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="$940不同的子序列二" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="$940不同的子序列二" />
       <module name="leetcode" />
@@ -85,26 +85,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.$1441用栈操作构建数组" />
         <item itemvalue="Application.$940不同的子序列二" />
         <item itemvalue="Application.$769最多能完成排序的块" />
         <item itemvalue="Application.$817链表组件" />
         <item itemvalue="Application.$1790仅执行一次字符串交换能否使两个字符串相等" />
-        <item itemvalue="Application.$856括号分数" />
       </list>
     </recent_temporary>
   </component>
@@ -329,7 +327,9 @@
       <workItem from="1665537890112" duration="2727000" />
       <workItem from="1665581084873" duration="31000" />
       <workItem from="1665622748783" duration="1062000" />
-      <workItem from="1665709414305" duration="670000" />
+      <workItem from="1665709414305" duration="733000" />
+      <workItem from="1665750472305" duration="6000" />
+      <workItem from="1665794998164" duration="1665000" />
     </task>
     <servers />
   </component>
