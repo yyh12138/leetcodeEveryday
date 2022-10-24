@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7998fa7-d89f-433c-b08f-69932f9195de" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/超大目标5000/1501-2000/$1768交替合并字符串.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/大目标1000/901-1000/$915分割数组.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +49,7 @@
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.$1768交替合并字符串">
+  <component name="RunManager" selected="Application.$915分割数组">
     <configuration name="$1700无法吃午餐的学生数量" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="$1700无法吃午餐的学生数量" />
       <module name="leetcode" />
@@ -78,31 +78,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="$904水果成篮" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="$904水果成篮" />
+    <configuration name="$915分割数组" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="$915分割数组" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.$915分割数组" />
         <item itemvalue="Application.$1768交替合并字符串" />
         <item itemvalue="Application.$901股票价格跨度" />
         <item itemvalue="Application.$779第K个语法符号" />
         <item itemvalue="Application.$1700无法吃午餐的学生数量" />
-        <item itemvalue="Application.$904水果成篮" />
       </list>
     </recent_temporary>
   </component>
@@ -335,7 +337,8 @@
       <workItem from="1666142175037" duration="1055000" />
       <workItem from="1666227030101" duration="2753000" />
       <workItem from="1666314913458" duration="1678000" />
-      <workItem from="1666489838526" duration="428000" />
+      <workItem from="1666489838526" duration="521000" />
+      <workItem from="1666573595223" duration="1135000" />
     </task>
     <servers />
   </component>
@@ -421,6 +424,11 @@
           <url>file://$PROJECT_DIR$/大目标1000/701-800/$707设计链表.java</url>
           <line>26</line>
           <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/大目标1000/901-1000/$915分割数组.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="35" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
